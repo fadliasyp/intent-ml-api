@@ -1,5 +1,0 @@
-train model
-python train_model.py
-
-untuk nyalain intent_tfidf_logreg
-uvicorn app:app --reload

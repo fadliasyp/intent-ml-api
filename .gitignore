@@ -1,0 +1,10 @@
+sklearn-env/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+dataset*.csv
+train_model.py
+note.txt
+.ipynb_checkpoints/
