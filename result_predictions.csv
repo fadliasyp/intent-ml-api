@@ -1,0 +1,161 @@
+text,actual,predicted,is_correct
+ada voltron?,product_discovery,product_discovery,True
+"lagi cari gundam, ada?",product_discovery,product_discovery,True
+mazinger ada ga sih,product_discovery,product_discovery,True
+"nyari getter, ada yg ready?",product_discovery,product_discovery,True
+grendizer ada?,product_discovery,product_discovery,True
+chogokin ada pilihan?,product_discovery,product_discovery,True
+robot jadul ada ga,product_discovery,product_discovery,True
+dancouga ada di sini?,product_discovery,product_discovery,True
+daimos ada kah,product_discovery,product_discovery,True
+ada yg kayak voltron?,product_discovery,product_discovery,True
+"lagi nyari robot lama, ada?",product_discovery,product_discovery,True
+produk robot ada apa aja,product_discovery,product_discovery,True
+koleksi robot disini apa aja,product_discovery,product_discovery,True
+"nyari yg buat display, ada?",product_discovery,product_discovery,True
+robot lawas ada ga,product_discovery,product_discovery,True
+"mau cari voltron, ada stok?",product_discovery,product_discovery,True
+gundam ada versi lain?,product_discovery,product_discovery,True
+barang robot ada?,product_discovery,product_discovery,True
+"lagi liat2 robot, ada rekomendasi list?",product_discovery,product_discovery,True
+produk baru ada apa,product_discovery,product_discovery,True
+ini ori?,product_detail,product_detail,True
+bahannya apa,product_detail,recommendation,False
+kondisi gimana,product_detail,product_detail,True
+minus ga,product_detail,product_detail,True
+lengkap?,product_detail,product_detail,True
+isi box apa aja,product_detail,product_detail,True
+ukuran brp,product_detail,product_detail,True
+bisa gerak?,product_detail,shipping_transaction,False
+ini diecast?,product_detail,product_detail,True
+detailnya gimana,product_detail,product_detail,True
+warna masih bagus?,product_detail,product_detail,True
+beratnya brp,product_detail,shipping_transaction,False
+tahun rilis?,product_detail,product_detail,True
+part lengkap ga,product_detail,product_detail,True
+box aman?,product_detail,product_detail,True
+artikulasi oke?,product_detail,product_detail,True
+ini replika?,product_detail,product_detail,True
+finishingnya gimana,product_detail,shipping_transaction,False
+catnya masih mulus?,product_detail,stock_availability,False
+kondisi overall?,product_detail,product_detail,True
+ini brp,price_promo,product_detail,False
+harga voltron brp,price_promo,price_promo,True
+gundam harga?,price_promo,price_promo,True
+mazinger berapa,price_promo,price_promo,True
+diskon ada?,price_promo,price_promo,True
+promo apa,price_promo,price_promo,True
+harga nett?,price_promo,price_promo,True
+bisa nego?,price_promo,price_promo,True
+range harga brp,price_promo,price_promo,True
+lagi sale?,price_promo,price_promo,True
+harga sekarang?,price_promo,price_promo,True
+cashback ada?,price_promo,price_promo,True
+potongan ada ga,price_promo,product_discovery,False
+harga fix?,price_promo,price_promo,True
+berapa duitnya,price_promo,price_promo,True
+under 1jt ada?,price_promo,product_discovery,False
+yang murah brp,price_promo,price_promo,True
+harga naik?,price_promo,price_promo,True
+harga turun?,price_promo,price_promo,True
+harga final?,price_promo,price_promo,True
+ready?,stock_availability,stock_availability,True
+masih ada?,stock_availability,stock_availability,True
+stok aman?,stock_availability,stock_availability,True
+habis?,stock_availability,stock_availability,True
+sold out?,stock_availability,stock_availability,True
+available?,stock_availability,shipping_transaction,False
+masih ready ga,stock_availability,stock_availability,True
+stock ada?,stock_availability,stock_availability,True
+sisa berapa,stock_availability,stock_availability,True
+ready sekarang?,stock_availability,stock_availability,True
+bisa ambil hari ini?,stock_availability,general,False
+preorder?,stock_availability,product_discovery,False
+stok kosong?,stock_availability,stock_availability,True
+masih bisa checkout?,stock_availability,stock_availability,True
+barang ada?,stock_availability,return_product,False
+tersedia?,stock_availability,stock_availability,True
+ready kah,stock_availability,stock_availability,True
+stok msh ada?,stock_availability,stock_availability,True
+sisa dikit?,stock_availability,stock_availability,True
+lagi kosong?,stock_availability,stock_availability,True
+ongkir jkt?,shipping_transaction,shipping_transaction,True
+kirim bdg brp,shipping_transaction,shipping_transaction,True
+cod bisa?,shipping_transaction,shipping_transaction,True
+bayar gimana,shipping_transaction,shipping_transaction,True
+transfer bisa?,shipping_transaction,shipping_transaction,True
+pakai apa bayarnya,shipping_transaction,shipping_transaction,True
+kirim sby brp lama,shipping_transaction,shipping_transaction,True
+resi ada?,shipping_transaction,product_discovery,False
+kurir apa,shipping_transaction,shipping_transaction,True
+checkout gimana,shipping_transaction,shipping_transaction,True
+qris ada?,shipping_transaction,product_discovery,False
+bisa ambil langsung?,shipping_transaction,shipping_transaction,True
+kirim luar kota?,shipping_transaction,shipping_transaction,True
+estimasi brp hari,shipping_transaction,shipping_transaction,True
+bayar ditempat?,shipping_transaction,shipping_transaction,True
+pengiriman aman?,shipping_transaction,shipping_transaction,True
+cara order?,shipping_transaction,shipping_transaction,True
+bisa grab/gojek?,shipping_transaction,shipping_transaction,True
+packing aman?,shipping_transaction,shipping_transaction,True
+kirim cepat?,shipping_transaction,shipping_transaction,True
+alamat dimana,general,general,True
+toko dimana,general,general,True
+offline ada?,general,product_discovery,False
+jam buka?,general,general,True
+hari ini buka?,general,general,True
+resmi?,general,general,True
+reseller?,general,general,True
+cs mana,general,general,True
+kontak?,general,general,True
+lokasi?,general,general,True
+cabang ada?,general,product_discovery,False
+weekend buka?,general,general,True
+tokonya apa,general,recommendation,False
+jual apa aja,general,general,True
+bisa datang?,general,return_product,False
+maps ada?,general,product_discovery,False
+jam tutup?,general,general,True
+admin online?,general,general,True
+store aktif?,general,general,True
+link toko?,general,general,True
+yang bagus mana,recommendation,recommendation,True
+rekomendasi dong,recommendation,recommendation,True
+pilih yg mana,recommendation,recommendation,True
+worth it?,recommendation,recommendation,True
+yg paling laku?,recommendation,recommendation,True
+bagus ga,recommendation,product_detail,False
+mending apa,recommendation,recommendation,True
+value terbaik?,recommendation,recommendation,True
+buat koleksi apa,recommendation,recommendation,True
+pilihan terbaik?,recommendation,product_discovery,False
+yg keren mana,recommendation,recommendation,True
+yg premium apa,recommendation,recommendation,True
+yg murah tapi bagus?,recommendation,recommendation,True
+mulai dari mana,recommendation,recommendation,True
+yg cocok display?,recommendation,recommendation,True
+yg aman dibeli?,recommendation,recommendation,True
+yg banyak dicari?,recommendation,recommendation,True
+yg paling oke?,recommendation,recommendation,True
+yg worth harga?,recommendation,price_promo,False
+yg recommended?,recommendation,recommendation,True
+retur bisa?,return_product,return_product,True
+refund ada?,return_product,return_product,True
+kalau rusak?,return_product,return_product,True
+bisa balikin?,return_product,return_product,True
+komplain gimana,return_product,return_product,True
+tukar barang?,return_product,return_product,True
+syarat retur?,return_product,return_product,True
+batas waktu?,return_product,return_product,True
+refund brp lama,return_product,return_product,True
+rusak kirim balik?,return_product,return_product,True
+cacat bisa retur?,return_product,return_product,True
+box penyok?,return_product,product_detail,False
+ga sesuai?,return_product,return_product,True
+klaim gimana,return_product,return_product,True
+retur ribet?,return_product,return_product,True
+biaya balik siapa,return_product,return_product,True
+return policy?,return_product,return_product,True
+komplain ke mana,return_product,general,False
+rusak pas datang?,return_product,return_product,True
+ganti unit?,return_product,stock_availability,False
