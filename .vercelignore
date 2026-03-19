@@ -8,5 +8,4 @@ dataset*.csv
 train_model.py
 note.txt
 .ipynb_checkpoints/
-.vercel
-.env*.local
+.git/

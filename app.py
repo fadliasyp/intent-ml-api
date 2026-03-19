@@ -7,7 +7,7 @@ import numpy as np
 app = FastAPI()
 
 # load model sekali saat app start
-model = joblib.load("intent_tfidf_logreg.joblib")
+model = joblib.load("intent_tfidf_logreg2.joblib")
 
 class PredictRequest(BaseModel):
     question: str
