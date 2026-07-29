@@ -1,0 +1,2323 @@
+text,label
+bisa kirim voltes v ke jogja ga,shipping_transaction
+ukuran getter robo ini kira kira brp,product_detail
+kapan mazinger z restock kalau habis,stock_availability
+butuh info kisaran harga robot jadul karena mau buat hadiah,price_promo
+"aku mau nanya, kalau grendizer ini lagi sale ga sih soalnya takut stoknya habis",price_promo
+harga produk super robot fix ato masih fleksibel soalnya takut stoknya habis,price_promo
+rekomendasi yang paling oke buat display dong,recommendation
+kalau saya menyesal beli bisa retur juga ga,return_product
+admin fast respon lewat mana biasanya,general
+order voltes v lewat website langsung bisa ya,shipping_transaction
+gaiking sudah sold out atau belum soalnya lagi bandingin dulu,stock_availability
+status bayar order aku gimana,transaction_status
+dancouga tersedia di toko ini ga,product_discovery
+kalian kirim paket dari gudang mana,shipping_origin
+status pemesananku gimana,transaction_status
+kontak admin lewat mana ya biar lebih yakin sebelum order,general
+"mau nanya, cek dong gaiking stoknya aman ga",stock_availability
+isi box gaiking ini apa aja soalnya takut stoknya habis,product_detail
+kalau goldrake ini lagi sale ga sih karena aku masih pertimbangin juga,price_promo
+harga produk super robot fix atau masih fleksibel,price_promo
+"boleh tanya, aku mau tau aturan refund sebelum beli",return_product
+harga nett combattler v berapa,price_promo
+kontak admin lewat mana ya biar ga salah pilih,general
+order chogokin lewat website langsung bisa ya,shipping_transaction
+"boleh tanya, pengiriman goldrake aman ga kalau ke medan",shipping_transaction
+buat combattler v ini ada bundle harga ga,price_promo
+harga grendizer sekarang masih sama ato naik,price_promo
+pengirimannya dari wilayah mana ya,shipping_origin
+di website ini ada kategori voltes v juga soalnya lagi bandingin dulu,product_discovery
+disini jual getter robo juga atau engga,product_discovery
+butuh info voltes v ini kondisinya gimana,product_detail
+"mau nanya, ini toko ada offline juga atau cuma online",shipping_origin
+harga gundam sekarang masih sama atau naik karena rencananya mau checkout hari ini,price_promo
+yang paling murah untuk seri getter robo kisaran berapa karena mau buat hadiah,price_promo
+"mau nanya, buat pajangan meja, yg cocok dari toko ini apa",recommendation
+asal pengiriman paket ini apa,shipping_origin
+"boleh tanya, robot jadul ini ada minus di bagian tertentu ga biar lebih yakin sebelum order",product_detail
+retur untuk barang koleksi seperti voltes v berlaku ga biar ga salah pilih,return_product
+ada pilihan super robot buat pemula juga ga,product_discovery
+alamat tempat kirimnya di mana,shipping_origin
+pingin tau kisaran harga figure robot,price_promo
+produk ini harga final nya berapa,price_promo
+barang saya sudah dikirim atau belum,transaction_status
+"saya mau tanya, robot kayak dancouga ada ga disini",product_discovery
+"saya mau tanya, gundam tigal sedikit atau masih banyak karena aku masih pertimbangin juga",stock_availability
+nomor cs yang bisa dihubungi ada ga,general
+"mau nanya, jam buka toko sampai berapa",general
+mau cek status order 9182,transaction_status
+"izin tanya, ukuran dancouga ini kira kira brp karena mau buat hadiah",product_detail
+"mau nanya, daimos ini worth it ga dari sisi harga karena mau buat hadiah",price_promo
+kalau dari detailnya mazinger z ini masih layak koleksi ga biar ga salah pilih,product_detail
+kalau cari yang ga terlalu mahal tapi bagus ambil apa,recommendation
+proses return di toko ini gimana karena aku masih pertimbangin juga,return_product
+"aku mau nanya, bahan dari grendizer ini apa ya",product_detail
+pesanan aku lagi di mana sekarang,transaction_status
+gaiking sudah sold out atau belum karena rencananya mau checkout hari ini,stock_availability
+rekomendasi produk yg aman buat hadiah dong,recommendation
+daimos ini masuk promo bulanan ga soalnya lagi bandingin dulu,price_promo
+kalau cari figure robot biasanya ada pilihan berapa biar lebih yakin sebelum order,product_discovery
+yang paling murah untuk seri mazinger z kisaran berapa soalnya lagi bandingin dulu,price_promo
+pesanan 9182 lagi di tahap apa,transaction_status
+"aku mau nanya, mending pilih chogokin atau figure biasa ya",recommendation
+voltes v masih masuk list barang ready ga karena rencananya mau checkout hari ini,stock_availability
+ada chogokin yg cocok buat simpan pribadi ga,product_discovery
+"izin tanya, mau cari dancouga yg bukan preorder ada karena rencananya mau checkout hari ini",product_discovery
+ada produk daimos buat orang yang buat display ga biar ga salah pilih,product_discovery
+tracking pesanan saya bagaimana,transaction_status
+ada cashback untuk figure robot ga,price_promo
+pengembalian barang harus pakai kemasan asli ya,return_product
+"aku mau nanya, goldrake yang ini lengkap atau ada part kurang",product_detail
+"kalau mau mulai koleksi, pilih item apa dulu karena mau buat hadiah",recommendation
+kalau buat koleksi enaknya pilih yang mana,recommendation
+pesanan 4410 berhasil atau gagal,transaction_status
+"saya mau tanya, bahan dari chogokin ini apa ya karena mau buat hadiah",product_detail
+kapan combattler v restock kalau habis,stock_availability
+ini toko ada offline juga atau cuma online,shipping_origin
+"izin tanya, kalau cari yang value for money, ambil apa soalnya takut stoknya habis",recommendation
+"buat pajangan meja, yg cocok dari toko ini apa",recommendation
+ada pilihan voltron buat pemula juga ga karena mau buat hadiah,product_discovery
+website ini jual barang apa aja,general
+"aku mau nanya, ada produk figure robot buat orang yang buat nostalgia ga",product_discovery
+order dancouga lewat website langsung bisa ya,shipping_transaction
+"aku mau nanya, toko ini bs dikunjungi langsung kan",shipping_origin
+aku mau tau aturan refund sebelum beli,return_product
+"saya mau tanya, ada cabang toko selain di jakarta ga",general
+robot jadul yang tadi masih bisa dibeli ga,stock_availability
+kalau minusnya ga disebut di deskripsi bisa klaim ga,return_product
+kalau mau refund prosesnya brp lama soalnya lagi bandingin dulu,return_product
+"izin tanya, masih ada unit gaiking yang bisa diambil sekarang",stock_availability
+status pembelian saya saat ini,transaction_status
+kalau ada pertanyaan umum sebaiknya lewat mana,general
+kalau mazinger stoknya sekarang berapa ya,stock_availability
+toko robot jadul di mana min,shipping_origin
+"izin tanya, warna pada getter robo ini msh bagus ga",product_detail
+"saya mau tanya, ada pilihan chogokin buat pemula juga ga",product_discovery
+"izin tanya, combattler v ini lagi promo ato harga normal biar ga salah pilih",price_promo
+"izin tanya, kalau gaiking ada diskon ga sekarang",price_promo
+daimos yang ini ori atau repro karena aku masih pertimbangin juga,product_detail
+stock super robot sekarang udah kosong belum karena mau buat hadiah,stock_availability
+robot jadul alamatnya di mana,shipping_origin
+"saya mau tanya, buat transaksi di sini bs pakai apa aja",shipping_transaction
+"boleh tanya, bisa kasih tau range harga voltes v",price_promo
+mazinger z msh masuk list barang ready ga soalnya lagi bandingin dulu,stock_availability
+kontak admin lewat mana ya karena aku masih pertimbangin juga,general
+"boleh tanya, kalau fokus nostalgia, item yg paling menarik apa",recommendation
+refund dana biasanya masuk brp hari,return_product
+"mau nanya, goldrake yang ini lengkap atau ada part kurang biar lebih yakin sebelum order",product_detail
+"aku mau nanya, kalau cari yang value for money, ambil apa",recommendation
+"aku mau sesuaikan budget, mazinger z harganya berapa",price_promo
+"aku mau nanya, ada pilihan kurir sendiri atau otomatis",shipping_transaction
+ada update untuk order saya,transaction_status
+voltron itu masih tersedia ato kosong,stock_availability
+kalau paket datang rusak prosedurnya gimana biar lebih yakin sebelum order,return_product
+kalau untuk dancouga masih tersedia hari ini,stock_availability
+grendizer di bawah satu juta ada ga biar ga salah pilih,price_promo
+"saya mau tanya, yg paling sering dicari orang biasanya apa sih soalnya takut stoknya habis",recommendation
+order nomor 8842 sudah dikirim belum,transaction_status
+"izin tanya, kalau ternyata minusnya parah bisa balikin barang ga",return_product
+kantor atau tokonya di mana,shipping_origin
+kalian base di kota mana,shipping_origin
+yang paling murah untuk seri mazinger z kisaran berapa,price_promo
+"aku mau nanya, ada pilihan gaiking buat pemula juga ga",product_discovery
+"boleh tanya, kalau isi box ga lengkap bisa ajukan retur ga",return_product
+"mau yg bagus tapi ga terlalu mahal, saran apa karena aku masih pertimbangin juga",recommendation
+ongkos kirim ke bekasi kira2 berapa soalnya takut stoknya habis,shipping_transaction
+warehouse kalian di mana,shipping_origin
+lokasi pengambilan barang di mana,shipping_origin
+gundam sudah sold out atau belum,stock_availability
+"aku mau nanya, biaya kirim balik saat retur ditanggung siapa karena rencananya mau checkout hari ini",return_product
+"buat koleksi pemula, robot yang cocok apa ya karena aku msh pertimbangin juga",recommendation
+kirim dari daerah mana,shipping_origin
+status pengiriman order saya,transaction_status
+"saya mau tanya, super robot yg ini masih ada kah",stock_availability
+berapa harga mazinger z yang ini,price_promo
+estimasi sampai ke bogor berapa hari karena mau buat hadiah,shipping_transaction
+"izin tanya, kalau ada masalah setelah barang diterima harus gimana",return_product
+"aku mau nanya, refund dana biasanya masuk berapa hari biar lebih yakin sebelum order",return_product
+lokasi pengiriman dari mana,shipping_origin
+mau tau spek lengkap combattler v sebelum beli,product_detail
+rekomendasi yang stocknya aman dan layak koleksi apa,recommendation
+"aku mau nanya, kalau nyari robot jadul enaknya lihat bagian mana",product_discovery
+"lagi nyari figure robot, kira kira tersedia ga",product_discovery
+buat transaksi di sini bisa pakai apa aja soalnya lagi bandingin dulu,shipping_transaction
+bagusnya ambil voltron atau gundam ya,recommendation
+"aku mau nanya, sisa stok voltron kira kira ada berapa",stock_availability
+metode pembayaran qris tersedia sekarang,shipping_transaction
+kalau lihat deskripsi figure robot ini termasuk kondisi apa,product_detail
+"saya mau tanya, kalau lihat deskripsi gundam ini termasuk kondisi apa",product_detail
+getter robo di bawah satu juta ada ga,price_promo
+"boleh tanya, robot kayak gundam ada ga disini",product_discovery
+ada dancouga yang mulus ga karena rencananya mau checkout hari ini,product_discovery
+"aku mau nanya, kalau lihat deskripsi getter robo ini termasuk kondisi apa",product_detail
+figure robot ini price nya berapa,price_promo
+"saya mau tanya, bisa kirim luar kota untuk dancouga kan karena rencananya mau checkout hari ini",shipping_transaction
+kalau kirim ke depok ongkirnya brp,shipping_transaction
+"buat koleksi pemula, robot yang cocok apa ya",recommendation
+aku mau pastiin chogokin msh ada sebelum bayar,stock_availability
+"kalau aku cari robot jadul, ada yang bisa dibeli sekarang",product_discovery
+robot jadul ini fokus di kategori apa aja,general
+buat daimos ini ada bundle harga ga,price_promo
+"aku mau nanya, metode pembayaran di toko ini apa aja karena aku masih pertimbangin juga",shipping_transaction
+aku mau tanya kisaran harga daimos,price_promo
+bisa bantu info jam operasional hari ini karena aku masih pertimbangin juga,general
+store ini melayani pembelian langsung juga ya,general
+kalau dari detailnya robot jadul ini masih layak koleksi ga,product_detail
+voltron sekarang stoknya berapa,stock_availability
+kalau mau datang langsung ke toko bisa ga karena mau buat hadiah,general
+harga nett daimos berapa soalnya lagi bandingin dulu,price_promo
+"boleh tanya, lagi nyari kisaran harga voltes v biar ga salah pilih",price_promo
+"aku mau nanya, mau lihat pilihan chogokin yang masih ada",product_discovery
+kalau order chogokin pengirimannya berapa lama ke bekasi,shipping_transaction
+barang gaiking masih ada stoknya ga,stock_availability
+"izin tanya, mau lihat pilihan grendizer yang masih ada",product_discovery
+bisa kasih tau range harga combattler v biar lebih yakin sebelum order,price_promo
+alamat lengkap toko dimana soalnya takut stoknya habis,shipping_origin
+yang paling laku di toko ini biasanya apa soalnya takut stocknya habis,recommendation
+voltes v itu masih tersedia atau kosong,stock_availability
+kok pesanan saya belum berubah status,transaction_status
+produk super robot masih ada unit nya,stock_availability
+"aku mau nanya, akun toko ini aktif tiap hari ga",general
+kalau transfer bank ada pilihan bank apa,shipping_transaction
+"izin tanya, kalau paket datang rusak prosedurnya gimana",return_product
+"izin tanya, kalau ada masalah setelah barang diterima harus gimana karena rencananya mau checkout hari ini",return_product
+isi box mazinger z ini apa aja biar lebih yakin sebelum order,product_detail
+"saya mau tanya, boleh jelasin detail getter robo ini sedikit karena rencananya mau checkout hari ini",product_detail
+"aku mau nanya, kalau isi box ga lengkap bs ajukan retur ga",return_product
+saran item terbaik dari toko ini dong,recommendation
+mau cek dancouga masih ready sekarang ga,stock_availability
+order super robot lewat website langsung bisa ya,shipping_transaction
+cek order id saya,transaction_status
+"mau nanya, super robot yg ini masih ada kah karena aku masih pertimbangin juga",stock_availability
+"mau nanya, kalau ternyata minusnya parah bs balikin barang ga",return_product
+kalau gundam sekarang masih bisa langsung checkout ga soalnya lagi bandingin dulu,stock_availability
+cek invoice 3007,transaction_status
+produk daimos masih dijual di website ini ga,product_discovery
+harga nett getter robo berapa,price_promo
+website ini jual barang apa aja karena rencananya mau checkout hari ini,general
+rekomendasi yang stoknya aman dan layak koleksi apa karena rencananya mau checkout hari ini,recommendation
+robot jadul ini spesialis jual apa sebenarnya biar ga salah pilih,general
+mau tanya ketersediaan super robot sekarang,stock_availability
+ambil sendiri barangnya ke mana,shipping_origin
+"aku mau nanya, kalau figure robot ada diskon ga sekarang soalnya takut stoknya habis",price_promo
+kalau barangnya rusak pas sampai bisa retur ga,return_product
+"saya mau tanya, voltes v yg ini masih ada kah karena mau buat hadiah",stock_availability
+harga nett mazinger z berapa soalnya takut stoknya habis,price_promo
+"izin tanya, aku mau pastiin getter robo masih ada sebelum bayar",stock_availability
+bisa ambil langsung di alamat mana,shipping_origin
+ada voltron di toko ini,product_discovery
+"izin tanya, alamat lengkap toko dimana soalnya takut stocknya habis",shipping_origin
+gundam yg ini masih ada kah,stock_availability
+pengiriman voltron aman ga kalau ke surabaya,shipping_transaction
+combattler v itu berapa harganya,price_promo
+buat info umum toko paling cepat lihat di mana soalnya lagi bandingin dulu,general
+order 7001 statusnya apa,transaction_status
+rekomendasi produk yang aman buat hadiah dong,recommendation
+mau tau spek lengkap grendizer sebelum beli biar lebih yakin sebelum order,product_detail
+kalau isi box ga lengkap bisa ajukan retur ga,return_product
+"boleh tanya, ini toko resmi atau reseller",general
+berapa stok voltron sekarang,stock_availability
+robot kayak gaiking ada ga disini soalnya takut stoknya habis,product_discovery
+"saya mau tanya, kalau kirim ke bandung ongkirnya berapa soalnya takut stoknya habis",shipping_transaction
+ada cashback untuk grendizer ga karena rencananya mau checkout hari ini,price_promo
+"aku mau nanya, harga chogokin sekarang berapa",price_promo
+"aku mau nanya, stock goldrake sekarang udah kosong belum",stock_availability
+status checkout saya bagaimana,transaction_status
+nomor cs yang bisa dihubungi ada ga biar ga salah pilih,general
+bisa minta lokasi toko yang lengkap,shipping_origin
+"izin tanya, kalau mau datang langsung ke toko bisa ga karena aku masih pertimbangin juga",general
+"boleh tanya, promo untuk robot kayak super robot ada apa aja",price_promo
+cek status transaksi 5321,transaction_status
+misalnya box penyok itu bisa komplain ga,return_product
+"mau nanya, ada produk getter robo buat orang yang buat nostalgia ga",product_discovery
+buat nostalgia lebih cocok pilih yang mana ya,recommendation
+"izin tanya, ada pilihan kurir sendiri atau otomatis biar ga salah pilih",shipping_transaction
+kalau ambil langsung di toko perlu checkout dulu ga,shipping_transaction
+box grendizer aman ato ada penyok,product_detail
+biaya kirim balik saat retur ditanggung siapa soalnya takut stoknya habis,return_product
+mau bayar pakai transfer bisa kan,shipping_transaction
+"buat pajangan meja, yang cocok dari toko ini apa karena rencananya mau checkout hari ini",recommendation
+isi box combattler v ini apa aja karena mau buat hadiah,product_detail
+"saya mau tanya, mau tanya kebijakan return di toko ini karena aku msh pertimbangin juga",return_product
+barang combattler v masih ada stoknya ga,stock_availability
+"mau nanya, gaiking ini worth it ga dari sisi harga soalnya takut stoknya habis",price_promo
+kalau kirim ke tangerang ongkirnya brp soalnya lagi bandingin dulu,shipping_transaction
+"kalau aku cari mazinger z, ada yang bisa dibeli sekarang karena rencananya mau checkout hari ini",product_discovery
+barang berangkat dari kota mana,shipping_origin
+orderku udah diproses belum,transaction_status
+"boleh tanya, ini toko ada offline juga atau cuma online",shipping_origin
+"mau nanya, getter robo ini ada minus di bagian tertentu ga",product_detail
+kalau mau ambil voltron harganya berapa,price_promo
+alamat lengkap toko dimana soalnya lagi bandingin dulu,shipping_origin
+pakai ekspedisi apa biasanya untuk kirim barang,shipping_transaction
+kalau dari detailnya dancouga ini masih layak koleksi ga karena aku masih pertimbangin juga,product_detail
+"kalau aku cari grendizer, ada yang bisa dibeli sekarang biar ga salah pilih",product_discovery
+nomor cs yang bisa dihubungi ada ga biar lebih yakin sebelum order,general
+barang daimos msh ada stoknya ga soalnya takut stoknya habis,stock_availability
+"saya mau tanya, cek dong mazinger z stoknya aman ga",stock_availability
+asal kirimnya kota mana,shipping_origin
+msh ada unit voltes v yg bisa diambil sekarang,stock_availability
+"boleh tanya, ada pilihan kurir sendiri atau otomatis karena mau buat hadiah",shipping_transaction
+"boleh tanya, pakai ekspedisi apa biasanya untuk kirim barang",shipping_transaction
+grendizer masih tersedia hari ini ga,stock_availability
+ukuran robot jadul ini kira kira berapa,product_detail
+status pesanan terbaru saya,transaction_status
+barang chogokin masih ada stoknya ga,stock_availability
+harga figure robot sekarang masih sama atau naik,price_promo
+bisa kasih tau range harga voltes v biar lebih yakin sebelum order,price_promo
+"mau nanya, biaya kirim balik saat retur ditanggung siapa soalnya lagi bandingin dulu",return_product
+mau cek invoice aku,transaction_status
+"saya mau tanya, mending pilih chogokin atau figure biasa ya",recommendation
+pakai ekspedisi apa biasanya untuk kirim barang karena rencananya mau checkout hari ini,shipping_transaction
+"boleh tanya, mau cari figure robot yang bukan preorder ada biar lebih yakin sebelum order",product_discovery
+gundam ini bisa digerakin atau cuma display,product_detail
+"aku lagi cari seri combattler v, disini ada kah",product_discovery
+gundam ada ga di toko ini,product_discovery
+isi box voltes v ini apa aja,product_detail
+"boleh tanya, proses return di toko ini gimana karena mau buat hadiah",return_product
+"aku lagi cari seri voltron, disini ada kah",product_discovery
+bisa cek status order saya,transaction_status
+"mau nanya, lagi nyari robot jadul, kira kira tersedia ga",product_discovery
+yang paling sering dicari orang biasanya apa sih,recommendation
+sisa stok voltron tinggal berapa,stock_availability
+ada pilihan kurir sendiri atau otomatis karena mau buat hadiah,shipping_transaction
+order saya masih pending ya,transaction_status
+pengiriman robot jadul aman ga kalau ke bandung,shipping_transaction
+buat transaksi di sini bisa pakai apa aja,shipping_transaction
+buat transaksi di sini bisa bayar pakai kartu,shipping_transaction
+kalau ada masalah setelah barang diterima harus gimana karena mau buat hadiah,return_product
+grendizer masih dijual di toko ini atau udah ga ada,product_discovery
+"saya mau tanya, buat info umum toko paling cepat lihat di mana biar lebih yakin sebelum order",general
+tolong cek status pesanan saya,transaction_status
+akun toko ini aktif tiap hari ga,general
+buat goldrake kondisi ready sekarang apa tidak,stock_availability
+"izin tanya, buat info umum toko paling cepat lihat di mana",general
+mau tanya ketersediaan voltron sekarang,stock_availability
+nomor order 1032 sudah sampai mana,transaction_status
+dancouga ini harga nett nya berapa,price_promo
+kalau kirim ke bandung ongkir berapa dan sampainya berapa hari,shipping_transaction
+mau cek daimos masih ready sekarang ga karena rencananya mau checkout hari ini,stock_availability
+"buat pajangan meja, yang cocok dari toko ini apa",recommendation
+cek dong voltes v stoknya aman ga karena mau buat hadiah,stock_availability
+kalau barang ga sesuai deskripsi bisa dikembalikan ga karena aku masih pertimbangin juga,return_product
+"mau nanya, cara checkout untuk combattler v gimana",shipping_transaction
+ongkos kirim ke depok kira kira berapa,shipping_transaction
+"aku mau nanya, kontak admin lewat mana ya soalnya takut stoknya habis",general
+aku mau pastiin super robot msh ada sebelum bayar,stock_availability
+"izin tanya, kalau mau bayar qris tersedia ga",shipping_transaction
+"boleh tanya, warna pada mazinger z ini msh bagus ga soalnya lagi bandingin dulu",product_detail
+berat voltron kurang lebih brp,product_detail
+"aku mau nanya, kalau order super robot pengirimannya berapa lama ke bogor biar lebih yakin sebelum order",shipping_transaction
+pesanan saya lagi diproses atau belum,transaction_status
+"mau nanya, aku suka robot jadul, enaknya mulai dari mana",recommendation
+saya mau tanya robot jadul ini kondisinya gimana,product_detail
+"izin tanya, kalau grendizer ini lagi sale ga sih soalnya lagi bandingin dulu",price_promo
+"mau nanya, kalau weekend toko buka seperti biasa ga",general
+"izin tanya, figure robot ini diecast atau plastik",product_detail
+ada goldrake yang masih bagus ga,product_discovery
+"boleh tanya, kalau buat buat hadiah, gaiking ini worth it ga soalnya lagi bandingin dulu",recommendation
+"saya mau tanya, cara checkout untuk grendizer gimana",shipping_transaction
+masih ada unit combattler v yang bisa diambil sekarang karena aku masih pertimbangin juga,stock_availability
+status order saya dong,transaction_status
+buat combattler v ini ada potongan harga atau engga,price_promo
+"boleh tanya, boleh jelasin detail dancouga ini sedikit",product_detail
+"izin tanya, harga chogokin sekarang masih sama atau naik",price_promo
+ini toko ada offline juga ato cuma online,shipping_origin
+"izin tanya, kalau nyari super robot enaknya lihat bagian mana",product_discovery
+"izin tanya, alamat lengkap toko dimana",shipping_origin
+"lagi bingung pilih, mending ambil yg mana biar ga salah pilih",recommendation
+"boleh tanya, rekomendasi yang stocknya aman dan layak koleksi apa",recommendation
+"lagi nyari goldrake, ada pilihannya",product_discovery
+sisa stok getter robo kira2 ada berapa soalnya takut stoknya habis,stock_availability
+kalau goldrake ada diskon ga sekarang karena mau buat hadiah,price_promo
+transaksi saya udah beres belum,transaction_status
+"mau nanya, kalau paket datang rusak prosedurnya gimana",return_product
+produk voltron masuk list toko ini ga,product_discovery
+mau tau spek lengkap gundam sebelum beli,product_detail
+"saya mau tanya, rekomendasi yg stoknya aman dan layak koleksi apa",recommendation
+"aku lagi bandingin, goldrake ini kelebihannya di mana karena aku masih pertimbangin juga",product_detail
+kalau ada masalah order biasanya hubungi ke mana,general
+goldrake itu ready atau harus nunggu,stock_availability
+"saya mau tanya, kalau goldrake sekarang msh bisa langsung checkout ga karena mau buat hadiah",stock_availability
+"aku mau nanya, retur untuk barang koleksi seperti daimos berlaku ga",return_product
+"boleh tanya, refund dana biasanya masuk berapa hari",return_product
+hari libur toko masih buka juga ga,general
+kalau order voltes v pengirimannya brp lama ke depok,shipping_transaction
+transaksi 7543 sudah berhasil belum,transaction_status
+tolong pilihkan yang paling oke buat aku,recommendation
+"boleh tanya, rekomendasi produk yang aman buat hadiah dong karena mau buat hadiah",recommendation
+cara checkout untuk super robot gimana,shipping_transaction
+misalnya box penyok itu bisa komplain ga karena aku masih pertimbangin juga,return_product
+refund dana biasanya masuk berapa hari biar lebih yakin sebelum order,return_product
+"boleh tanya, kalau checkout gagal biasanya harus gimana soalnya takut stoknya habis",shipping_transaction
+cara checkout untuk gaiking gimana,shipping_transaction
+voltron tinggal sedikit atau masih banyak soalnya takut stoknya habis,stock_availability
+"mau nanya, rekomendasi yang stoknya aman dan layak koleksi apa biar ga salah pilih",recommendation
+kalau mau keliatan premium enaknya ambil yang mana,recommendation
+"saya mau tanya, bisa bantu info jam operasional hari ini",general
+kalau box penyok parah itu bisa klaim ga,return_product
+"antara dancouga dan seri lain, yang lebih worth it mana karena mau buat hadiah",recommendation
+"mau nanya, tolong pilihkan yang paling oke buat aku",recommendation
+"boleh tanya, kalau mau bayar qris tersedia ga soalnya takut stoknya habis",shipping_transaction
+kalau mau refund prosesnya berapa lama biar lebih yakin sebelum order,return_product
+"izin tanya, mau tau spek lengkap combattler v sebelum beli",product_detail
+produk ini lengkap stand dan senjatanya ga,product_detail
+harga gundam yang ready sekarang berapa,price_promo
+"izin tanya, mau tanya ketersediaan figure robot sekarang biar lebih yakin sebelum order",stock_availability
+akun toko ini aktif tiap hari ga biar lebih yakin sebelum order,general
+voltes v yang ini lengkap atau ada part kurang karena aku masih pertimbangin juga,product_detail
+pengiriman combattler v aman ga kalau ke surabaya,shipping_transaction
+asal barangnya dari mana,shipping_origin
+pesanan aku statusnya apa ya,transaction_status
+kalau ambil goldrake masih bisa nego dikit ga,price_promo
+kalau paket datang rusak prosedurnya gimana karena mau buat hadiah,return_product
+stok gundam masih ada berapa pcs,stock_availability
+boleh tau kondisi fisik mazinger z lebih detail,product_detail
+sisa stok combattler v kira kira ada berapa soalnya lagi bandingin dulu,stock_availability
+yang paling recommended buat dipajang apa,recommendation
+order saya sudah lunas belum,transaction_status
+chogokin msh dijual di toko ini atau udah ga ada soalnya lagi bandingin dulu,product_discovery
+kalau isi box ga lengkap bs ajukan retur ga,return_product
+"aku mau nanya, kalau untuk grendizer masih tersedia hari ini",stock_availability
+kalau mau ke toko arahnya ke mana,shipping_origin
+jam buka toko sampai brp biar lebih yakin sebelum order,general
+chogokin di website ini ada apa aja,product_discovery
+"izin tanya, mazinger z ini worth it ga dari sisi harga karena rencananya mau checkout hari ini",price_promo
+"izin tanya, kalau budget segini enaknya ambil apa biar ga salah pilih",recommendation
+buat robot jadul ini ada bundle harga ga,price_promo
+"mau nanya, buat info umum toko paling cepat lihat di mana",general
+daimos masih bisa langsung checkout ga,stock_availability
+order mazinger z lewat website langsung bisa ya,shipping_transaction
+komplain barang rusak harus lewat mana,return_product
+getter robo yang ini lengkap atau ada part kurang biar lebih yakin sebelum order,product_detail
+combattler v sisa berapa unit sekarang,stock_availability
+berat dancouga ini kira kira berapa,product_detail
+"kalau cari yang value for money, ambil apa biar lebih yakin sebelum order",recommendation
+warna produk ini masih bagus atau pudar,product_detail
+kalau untuk daimos masih tersedia hari ini,stock_availability
+"aku mau nanya, gundam yang ini lengkap atau ada part kurang",product_detail
+kalau untuk gaiking masih tersedia hari ini,stock_availability
+"mau nanya, voltron ini ada minus di bagian tertentu ga karena aku masih pertimbangin juga",product_detail
+transaksi aku statusnya apa,transaction_status
+cek transaksi saya,transaction_status
+refund dana kalau batal karena barang bermasalah berapa lama,return_product
+ada gaiking yg cocok buat koleksi ga soalnya lagi bandingin dulu,product_discovery
+saya mau tahu status invoice saya,transaction_status
+robot jadul ini spesialis jual apa sebenarnya biar lebih yakin sebelum order,general
+grendizer yang ini diecast atau plastik,product_detail
+kalau mau datang langsung ke toko bisa ga soalnya takut stoknya habis,general
+"mau nanya, buat combattler v ini ada potongan harga atau engga",price_promo
+"lagi nyari gundam, kira kira tersedia ga",product_discovery
+cek status pesanan saya,transaction_status
+"sy mau tanya, kalau cari yang value for money, ambil apa",recommendation
+kalau ada cacat pabrik prosedur komplainnya gimana,return_product
+ongkos kirim ke jakarta kira kira berapa,shipping_transaction
+mau tau kebijakan pengembalian sebelum order,return_product
+biaya kirim balik saat retur ditanggung siapa karena mau buat hadiah,return_product
+pesanan saya sudah sampai mana,transaction_status
+promo untuk robot kayak robot jadul ada apa aja,price_promo
+"izin tanya, buat pajangan meja, yang cocok dari toko ini apa",recommendation
+stok figure robot itu masih ada berapa,stock_availability
+"aku mau nanya, buat voltron kondisi ready sekarang apa tidak",stock_availability
+estimasi sampai ke semarang berapa hari karena mau buat hadiah,shipping_transaction
+ukuran mazinger z ini berapa cm,product_detail
+barang goldrake msh ada stoknya ga biar lebih yakin sebelum order,stock_availability
+stok voltron ada berapa ya,stock_availability
+"izin tanya, kalau untuk dancouga masih tersedia hari ini",stock_availability
+kalau mau lihat langsung barang bisa ke toko,general
+lokasi warehouse lebih tepatnya di mana,shipping_origin
+"saya mau tanya, proses return di toko ini gimana",return_product
+hari ini toko buka atau tutup,general
+kalau kirim ke semarang ongkirnya berapa soalnya lagi bandingin dulu,shipping_transaction
+mau tanya ketersediaan figure robot sekarang,stock_availability
+status order saya masih pending ya,transaction_status
+chogokin ini stoknya masih ada atau udah habis,stock_availability
+voltron sudah sold out ato belum,stock_availability
+"saya mau tanya, yang paling laku di toko ini biasanya apa",recommendation
+barang dikirim dari mana,shipping_origin
+kalau paket rusak di jalan bisa minta ganti ga,return_product
+"aku mau nanya, barang salah kirim bisa langsung ditukar kan biar ga salah pilih",return_product
+"mau nanya, kalau ada masalah setelah barang diterima harus gimana",return_product
+"sy mau tanya, buat figure robot ini ada potongan harga ato engga",price_promo
+versi getter robo yg ini rilisan tahun berapa,product_detail
+"aku mau nanya, kalau ambil combattler v masih bisa nego dikit ga",price_promo
+bisa cek orderan saya sekarang,transaction_status
+bisa kirim luar kota untuk mazinger z kan,shipping_transaction
+"saya mau tanya, setelah order nanti dapat resi juga kan",shipping_transaction
+"saya mau tanya, toko ini bisa dikunjungi langsung kan",shipping_origin
+"izin tanya, yg paling laku di toko ini biasanya apa",recommendation
+"mau nanya, toko ini bisa dikunjungi langsung kan soalnya takut stoknya habis",shipping_origin
+order saya sudah dikirim belum,transaction_status
+mending ambil yang ready sekarang atau tunggu seri lain,recommendation
+"aku mau nanya, minta rekomendasi dong yg paling bagus buat display",recommendation
+mau cari voltes v yang bukan preorder ada,product_discovery
+"saya mau tanya, kalau barangnya rusak pas sampai bisa retur ga karena mau buat hadiah",return_product
+order 9182 sudah jalan belum,transaction_status
+harga nett gundam berapa,price_promo
+detail sambungan atau artikulasi gundam gimana karena mau buat hadiah,product_detail
+"boleh tanya, versi super robot yang ini rilisan tahun brp",product_detail
+kota toko kalian apa,shipping_origin
+mau cek kisaran harga mazinger z,price_promo
+"izin tanya, ada voltes v yang cocok buat hadiah ga",product_discovery
+kalau ada masalah setelah barang diterima harus gimana,return_product
+harga voltron sekarang berapa,price_promo
+"antara gundam dan seri lain, yg lebih worth it mana biar ga salah pilih",recommendation
+"mau nanya, metode pembayaran di toko ini apa aja",shipping_transaction
+"saya mau tanya, kalau ambil langsung di toko bisa ga",shipping_transaction
+aku mau tau aturan refund sebelum beli karena aku masih pertimbangin juga,return_product
+"izin tanya, kontak admin lewat mana ya",general
+"izin tanya, aku lagi bandingin, grendizer ini kelebihannya di mana biar lebih yakin sebelum order",product_detail
+"lagi pengen nambah daimos, ada stok model lain juga",product_discovery
+"boleh tanya, kalau budget segini enaknya ambil apa",recommendation
+kota asal pengirimannya apa,shipping_origin
+"boleh tanya, box combattler v aman atau ada penyok karena aku masih pertimbangin juga",product_detail
+detail minus pada produk ini ada ga,product_detail
+"saya mau tanya, bisa kirim luar kota untuk gaiking kan",shipping_transaction
+pesanan saya masih menunggu pembayaran ya,transaction_status
+tolong rekomendasiin robot jadul yang aman buat koleksi,recommendation
+kalau cari voltron biasanya ada pilihan berapa,product_discovery
+robot jadul ini lagi promo atau harga normal,price_promo
+kalau mau refund prosesnya brp lama,return_product
+"mau nanya, bahan dari goldrake ini apa ya",product_detail
+robot jadul kayak voltes v ada,product_discovery
+"mau nanya, harga nett voltron berapa",price_promo
+goldrake sekarang dijual berapa,price_promo
+syarat pengembalian barang di toko ini apa aja,return_product
+pesanan saya sudah dikemas belum,transaction_status
+robot kayak gundam ada ga disini,product_discovery
+"antara gundam dan seri lain, yang lebih worth it mana",recommendation
+"izin tanya, figure robot ini ada minus di bagian tertentu ga",product_detail
+promo untuk robot kayak figure robot ada apa aja soalnya lagi bandingin dulu,price_promo
+estimasi pengiriman ke medan berapa lama,shipping_transaction
+"boleh tanya, kalau checkout gagal biasanya harus gimana biar ga salah pilih",shipping_transaction
+chogokin yang ini ori atau repro,product_detail
+kalau untuk mazinger z msh tersedia hari ini,stock_availability
+yang paling sering dicari orang biasanya apa sih karena aku msh pertimbangin juga,recommendation
+kalau pengiriman asalnya dari mana ya,shipping_origin
+biaya kirim balik saat retur ditanggung siapa soalnya lagi bandingin dulu,return_product
+buat daimos ini ada potongan harga atau engga,price_promo
+isi box getter robo ini apa aja,product_detail
+paket berangkat dari kota mana,shipping_origin
+detail sambungan atau artikulasi chogokin gimana karena mau buat hadiah,product_detail
+getter robo ini stoknya masih ada atau udah habis karena rencananya mau checkout hari ini,stock_availability
+mending pilih chogokin ato figure biasa ya,recommendation
+"izin tanya, promo untuk robot kayak gundam ada apa aja",price_promo
+"aku mau nanya, aku mau pastiin gaiking masih ada sebelum bayar biar ga salah pilih",stock_availability
+bantu cariin dancouga dong kalau ada,product_discovery
+aku mau pastiin super robot masih ada sebelum bayar,stock_availability
+buat voltron ini ada potongan harga atau engga,price_promo
+mau cari goldrake yang bukan preorder ada,product_discovery
+"mau cari koleksi robot lama, ada pilihannya",product_discovery
+retur untuk barang koleksi seperti daimos berlaku ga karena mau buat hadiah,return_product
+combattler v ada ga di toko ini,product_discovery
+"aku mau nanya, barang getter robo msh ada stoknya ga",stock_availability
+izin tanya gundam ini kondisinya gimana,product_detail
+masih ada unit untuk item ini ga,stock_availability
+"boleh tanya, retur untuk barang koleksi seperti combattler v berlaku ga",return_product
+"boleh tanya, rekomendasi yg stoknya aman dan layak koleksi apa",recommendation
+mau tanya alamat lengkap sama titik lokasinya,shipping_origin
+"saya mau tanya, kalau untuk getter robo msh tersedia hari ini",stock_availability
+"aku lagi bandingin, combattler v ini kelebihannya di mana",product_detail
+gudang pengiriman ada di mana,shipping_origin
+"buat display di lemari, produk yg paling cocok apa karena mau buat hadiah",recommendation
+metode pembayaran di toko ini apa aja,shipping_transaction
+"aku mau nanya, kalau getter robo ada diskon ga sekarang",price_promo
+kalau paket datang rusak prosedurnya gimana karena aku msh pertimbangin juga,return_product
+kalau mau datang langsung ke toko di mana,shipping_origin
+toko kalian di mana,shipping_origin
+"boleh tanya, kontak admin lewat mana ya",general
+bisa kirim mazinger z ke surabaya ga,shipping_transaction
+"boleh tanya, versi robot jadul yang ini rilisan tahun berapa",product_detail
+misalnya box penyok itu bisa komplain ga soalnya takut stoknya habis,return_product
+harga nett voltron brp,price_promo
+"aku mau nanya, harga produk goldrake fix atau masih fleksibel karena rencananya mau checkout hari ini",price_promo
+cek pesanan 9182,transaction_status
+status transaksi saya,transaction_status
+grendizer ini lagi promo atau harga normal soalnya lagi bandingin dulu,price_promo
+"aku mau sesuaikan budget, grendizer harganya berapa",price_promo
+harga produk getter robo fix ato masih fleksibel soalnya takut stoknya habis,price_promo
+"mau nanya, kalau ambil langsung di toko bisa ga soalnya lagi bandingin dulu",shipping_transaction
+dancouga yang ini ori atau repro,product_detail
+"boleh tanya, kalau part kurang saat diterima bisa retur kah",return_product
+harga chogokin sekarang berapa ya,price_promo
+kalau mau datang langsung ke toko bisa ga biar ga salah pilih,general
+alamat robot jadul di mana ya,shipping_origin
+"saya mau tanya, ukuran grendizer ini kira kira berapa",product_detail
+"saya mau tanya, mau bayar pakai transfer bisa kan karena mau buat hadiah",shipping_transaction
+voltes v sudah sold out atau belum,stock_availability
+kalau part kurang saat diterima bisa retur kah soalnya takut stoknya habis,return_product
+"mau datang ke store kalian, alamatnya di mana",shipping_origin
+bisa kasih tau range harga mazinger z,price_promo
+"boleh tanya, robot jadul ini spesialis jual apa sebenarnya",general
+mau lihat pilihan figure robot yang masih ada karena rencananya mau checkout hari ini,product_discovery
+kalau mau pickup alamatnya ke mana,shipping_origin
+"izin tanya, antara dancouga dan seri lain, yang lebih worth it mana biar lebih yakin sebelum order",recommendation
+harga voltron sekarang masih sama atau naik karena aku masih pertimbangin juga,price_promo
+buat yang ini stoknya kosong atau engga,stock_availability
+isi box mazinger z ini apa aja,product_detail
+di website ini ada kategori voltron juga,product_discovery
+produk ini kondisinya gimana detailnya,product_detail
+"izin tanya, barang cacat bisa tukar unit atau ega",return_product
+toko ini bisa dikunjungi langsung kan,shipping_origin
+getter robo ada pilihan produknya,product_discovery
+ada cabang toko selain di jakarta ga soalnya lagi bandingin dulu,general
+"izin tanya, ongkos kirim ke depok kira2 brp karena rencananya mau checkout hari ini",shipping_transaction
+"saya mau tanya, buat pajangan meja, yang cocok dari toko ini apa",recommendation
+cek status invoice saya dong,transaction_status
+status pesanan saya bagaimana,transaction_status
+mau cari dancouga yang bukan preorder ada,product_discovery
+kalau mau refund prosesnya brp lama karena mau buat hadiah,return_product
+goldrake ini ada minus di bagian tertentu ga,product_detail
+kalau lihat deskripsi super robot ini termasuk kondisi apa,product_detail
+"aku mau nanya, yg keliatan premium biasanya yg mana",recommendation
+"boleh tanya, voltron ini pre order atau ready stock",stock_availability
+voltron ada ga di toko ini karena mau buat hadiah,product_discovery
+mau cek kisaran harga figure robot,price_promo
+yang paling sering dicari orang biasanya apa sih soalnya lagi bandingin dulu,recommendation
+kalau barangnya rusak pas sampai bisa retur ga biar ga salah pilih,return_product
+kalau checkout gagal biasanya harus gimana karena rencananya mau checkout hari ini,shipping_transaction
+"antara dancouga dan seri lain, yang lebih worth it mana karena aku masih pertimbangin juga",recommendation
+aku mau pastiin daimos masih ada sebelum bayar soalnya lagi bandingin dulu,stock_availability
+masih ada berapa unit voltron,stock_availability
+barang cacat bisa tukar unit ato engga,return_product
+getter robo ini bisa digerakin ato cuma display,product_detail
+lokasi pickup di mana,shipping_origin
+super robot ini pre order ato ready stock karena rencananya mau checkout hari ini,stock_availability
+"saya mau tanya, aku mau tau aturan refund sebelum beli",return_product
+mau tau spek lengkap dancouga sebelum beli,product_detail
+bisa cod untuk area bekasi ga,shipping_transaction
+gaiking yg ini masih ada kah biar ga salah pilih,stock_availability
+ada cashback untuk super robot ga,price_promo
+"saya mau tanya, disini jual getter robo juga atau engga",product_discovery
+alamat showroom kalian di mana,shipping_origin
+order grendizer lewat website langsung bisa ya,shipping_transaction
+gundam ini diecast ato plastik,product_detail
+"izin tanya, yang paling murah untuk seri combattler v kisaran brp",price_promo
+"kalau fokus nostalgia, item yang paling menarik apa",recommendation
+ready ga dancouga buat dibeli sekarang,stock_availability
+kalau barang ga sesuai deskripsi bisa dikembalikan ga biar ga salah pilih,return_product
+kalau ternyata minusnya parah bisa balikin barang ga soalnya takut stoknya habis,return_product
+bisa info alamat tokonya,shipping_origin
+promo untuk robot kayak daimos ada apa aja,price_promo
+"mau nanya, setelah order nanti dapat resi juga kan biar lebih yakin sebelum order",shipping_transaction
+ukuran voltron ini kira kira berapa,product_detail
+gundam ini lagi promo ato harga normal,price_promo
+"boleh tanya, getter robo ini stoknya masih ada atau udah habis",stock_availability
+gudang kalian letaknya di mana,shipping_origin
+"izin tanya, akun toko ini aktif tiap hari ga",general
+habis checkout nanti pembayaran lewat apa aja,shipping_transaction
+"aku mau nanya, cara checkout untuk chogokin gimana",shipping_transaction
+yg paling laku di toko ini biasanya apa,recommendation
+bisa cod ga kalau tujuan jakarta,shipping_transaction
+ada super robot yg rapi ga biar ga salah pilih,product_discovery
+berapa duit buat beli chogokin ini,price_promo
+"lagi bingung pilih, mending ambil yang mana",recommendation
+"mau nanya, kalau weekend toko buka seperti biasa ga biar lebih yakin sebelum order",general
+"antara gaiking dan seri lain, yg lebih worth it mana",recommendation
+bisa cod ga kalau tujuan jogja karena aku masih pertimbangin juga,shipping_transaction
+boleh tau kondisi fisik voltes v lebih detail,product_detail
+pakai ekspedisi apa biasanya untuk kirim barang karena mau buat hadiah,shipping_transaction
+status pesanan no 9182,transaction_status
+super robot msh dijual di toko ini atau udah ga ada karena mau buat hadiah,product_discovery
+ada grendizer yang cocok buat koleksi ga,product_discovery
+mau tanya status transaksi aku,transaction_status
+mau cari gundam yang bukan preorder ada,product_discovery
+barang tadi masih aman stoknya,stock_availability
+"mau nanya, kalau order voltron pengirimannya brp lama ke depok",shipping_transaction
+status order saya saat ini apa,transaction_status
+mohon cek status pesanan saya,transaction_status
+apakah toko ini fokus di koleksi robot lama soalnya takut stoknya habis,general
+box getter robo aman atau ada penyok soalnya lagi bandingin dulu,product_detail
+mau tau spek lengkap robot jadul sebelum beli,product_detail
+status order id 9182,transaction_status
+"kalau fokus display lemari, item yang cocok apa",recommendation
+"mau nanya, harga chogokin sekarang berapa soalnya lagi bandingin dulu",price_promo
+buat robot jadul kondisi ready sekarang apa tidak,stock_availability
+pengiriman dari kota mana,shipping_origin
+order nomor 7543 statusnya apa,transaction_status
+"mau nanya, robot jadul ini spesialis jual apa sebenarnya biar lebih yakin sebelum order",general
+"mau nanya, mau yang bagus tapi ga terlalu mahal, saran apa karena aku msh pertimbangin juga",recommendation
+"izin tanya, retur barang ada batas waktunya ga",return_product
+getter robo ready stock atau tidak,stock_availability
+"mau nanya, buat gaiking kondisi ready sekarang apa tidak soalnya takut stoknya habis",stock_availability
+ada cashback untuk gaiking ga,price_promo
+"mau nanya, buat mazinger z ini ada potongan harga atau engga",price_promo
+"izin tanya, kalau barang ga sesuai deskripsi bisa dikembalikan ga",return_product
+order saya sudah confirmed belum,transaction_status
+kalau salah pilih alamat pas checkout bisa diubah,shipping_transaction
+buat info umum toko paling cepat lihat di mana karena mau buat hadiah,general
+bisa kirim pakai jne atau jnt,shipping_transaction
+cek status order saya ya,transaction_status
+cek order #7788 dong,transaction_status
+bisa kasih tau range harga mazinger z karena mau buat hadiah,price_promo
+"boleh tanya, kalau mau datang langsung ke toko bisa ga",general
+"saya mau tanya, kalau ambil daimos masih bisa nego dikit ga",price_promo
+box chogokin ini aman atau ada penyok,product_detail
+"mau nanya, mau tanya kebijakan return di toko ini biar lebih yakin sebelum order",return_product
+status order saya yang 5120,transaction_status
+"boleh tanya, isi box voltes v ini apa aja",product_detail
+"lagi nyari chogokin, kira kira tersedia ga karena rencananya mau checkout hari ini",product_discovery
+"aku mau nanya, box goldrake aman ato ada penyok",product_detail
+"boleh tanya, ongkos kirim ke bekasi kira kira berapa karena mau buat hadiah",shipping_transaction
+aku mau tanya chogokin ini kondisinya gimana,product_detail
+saya mau cek status transaksi,transaction_status
+grendizer ini diecast atau plastik,product_detail
+"aku mau nanya, buat koleksi pemula, robot yg cocok apa ya soalnya lagi bandingin dulu",recommendation
+kalau cari goldrake biasanya ada pilihan berapa,product_discovery
+mau cek robot jadul masih ready sekarang ga,stock_availability
+"izin tanya, setelah order nanti dapat resi juga kan biar ga salah pilih",shipping_transaction
+ada produk super robot di toko ini,product_discovery
+"boleh tanya, rekomendasi produk yang aman buat hadiah dong",recommendation
+tolong pilihkan yang paling oke buat aku karena aku masih pertimbangin juga,recommendation
+aku mau pastiin dancouga masih ada sebelum bayar karena aku masih pertimbangin juga,stock_availability
+"aku mau nanya, mau cari figure robot yg bukan preorder ada",product_discovery
+status pesanan saya dengan id 8123,transaction_status
+masih ada unit super robot yg bisa diambil sekarang,stock_availability
+versi mazinger z yang ini rilisan tahun berapa soalnya takut stoknya habis,product_detail
+barang cacat bisa tukar unit atau engga karena mau buat hadiah,return_product
+"aku mau nanya, harga super robot sekarang berapa",price_promo
+harga nett voltes v brp,price_promo
+"boleh tanya, kalau ada kendala website lapornya ke mana",general
+bahan dari gaiking ini apa ya,product_detail
+"boleh tanya, buat display di lemari, produk yang paling cocok apa",recommendation
+"mau yang bagus tapi ga terlalu mahal, saran apa karena rencananya mau checkout hari ini",recommendation
+"saya mau tanya, kalau part kurang saat diterima bisa retur kah",return_product
+status order terakhir saya,transaction_status
+detail sambungan atau artikulasi goldrake gimana karena aku masih pertimbangin juga,product_detail
+ada cashback untuk mazinger z ga,price_promo
+"mau nanya, msh ada unit goldrake yang bisa diambil sekarang",stock_availability
+"mau nanya, ready ga grendizer buat dibeli sekarang",stock_availability
+bisa kirim luar kota untuk super robot kan,shipping_transaction
+"aku suka robot jadul, enaknya mulai dari mana",recommendation
+barang ready di gudang mana,shipping_origin
+"izin tanya, produk chogokin masih masuk koleksi toko ga",product_discovery
+"saya mau tanya, rekomendasi produk yang aman buat hadiah dong",recommendation
+voltes v itu masih tersedia ato kosong soalnya lagi bandingin dulu,stock_availability
+mazinger z ini masuk promo bulanan ga karena aku masih pertimbangin juga,price_promo
+"kalau aku cari getter robo, ada yang bisa dibeli sekarang",product_discovery
+box combattler v aman atau ada penyok,product_detail
+"mau nanya, ready ga getter robo buat dibeli sekarang",stock_availability
+alamat gudangnya di mana,shipping_origin
+"saya mau tanya, lagi pengen nambah mazinger z, ada stok model lain juga",product_discovery
+buat chogokin kondisi ready sekarang apa ga,stock_availability
+"mau nanya, ukuran voltron ini kira2 berapa",product_detail
+disini jual combattler v juga atau ega,product_discovery
+status belanja saya,transaction_status
+"lagi cari gundam, ada ga di sini",product_discovery
+"buat koleksi pemula, robot yang cocok apa ya soalnya lagi bandingin dulu",recommendation
+yg paling sering dicari orang biasanya apa sih,recommendation
+lokasi gudangnya di mana,shipping_origin
+tempat pickup barang di mana,shipping_origin
+"mau nanya, mau tau lokasi tokonya lebih jelas soalnya takut stoknya habis",shipping_origin
+lokasi admin atau tokonya di mana,shipping_origin
+kapan goldrake restock kalau habis,stock_availability
+cek status pembelian saya,transaction_status
+pusat toko kalian di mana,shipping_origin
+"izin tanya, setelah order nanti dapat resi juga kan",shipping_transaction
+"boleh tanya, kalau mau mulai koleksi, pilih item apa dulu",recommendation
+tolong bantu cek order saya,transaction_status
+"aku mau sesuaikan budget, combattler v harganya berapa soalnya lagi bandingin dulu",price_promo
+ada cashback untuk figure robot ga soalnya takut stoknya habis,price_promo
+"mau nanya, harga nett goldrake berapa",price_promo
+combattler v ini worth it ga dari sisi harga biar lebih yakin sebelum order,price_promo
+cek update pesanan saya dong,transaction_status
+"aku mau nanya, akun toko ini aktif tiap hari ga soalnya takut stoknya habis",general
+"saya mau tanya, kalau fokus nostalgia, item yang paling menarik apa",recommendation
+gundam ini berapa harganya sekarang,price_promo
+super robot ini worth it ga dari sisi harga,price_promo
+"boleh tanya, chogokin itu masih tersedia atau kosong",stock_availability
+"boleh tanya, masih ada unit combattler v yang bisa diambil sekarang soalnya takut stoknya habis",stock_availability
+"mau nanya, ada cashback untuk chogokin ga",price_promo
+"izin tanya, mau tau lokasi tokonya lebih jelas karena mau buat hadiah",shipping_origin
+"kalau fokus nostalgia, item yg paling menarik apa",recommendation
+produk ini masih available sekarang,stock_availability
+"aku mau nanya, tolong pilihkan yang paling oke buat aku biar ga salah pilih",recommendation
+ukuran mazinger z ini kira kira berapa,product_detail
+"mau nanya, kontak admin lewat mana ya",general
+tempat kirimnya dari mana ya,shipping_origin
+kalau part kurang saat diterima bisa retur kah karena aku masih pertimbangin juga,return_product
+"saya mau tanya, ini toko ada offline juga atau cuma online",shipping_origin
+mazinger z ada ga di toko ini karena aku masih pertimbangin juga,product_discovery
+kalau chogokin ini lagi sale ga sih karena mau buat hadiah,price_promo
+kalau untuk gaiking msh tersedia hari ini,stock_availability
+"izin tanya, di website ini ada kategori daimos juga",product_discovery
+versi dancouga yang ini rilisan tahun berapa karena rencananya mau checkout hari ini,product_detail
+spek lengkap combattler v ini apa aja,product_detail
+"antara mazinger z dan seri lain, yg lebih worth it mana",recommendation
+"mau nanya, super robot ini pre order atau ready stock soalnya lagi bandingin dulu",stock_availability
+kontak admin lewat mana ya soalnya lagi bandingin dulu,general
+"boleh tanya, kalau barang ga sesuai deskripsi bisa dikembalikan ga",return_product
+"izin tanya, robot kayak figure robot ada ga disini",product_discovery
+kirim dari kota apa,shipping_origin
+detail sambungan atau artikulasi super robot gimana,product_detail
+status pesanan saya belum update ya,transaction_status
+"aku mau nanya, kalau ada masalah setelah barang diterima harus gimana karena aku masih pertimbangin juga",return_product
+kalau mau tanya cepat biasanya lewat mana,general
+ini dikirim dari jakarta atau luar kota,shipping_origin
+"izin tanya, estimasi sampai ke surabaya berapa hari",shipping_transaction
+"saya mau tanya, kalau part kurang saat diterima bisa retur kah karena mau buat hadiah",return_product
+cek orderan saya dong,transaction_status
+syarat pengembalian barang di toko ini apa aja biar ga salah pilih,return_product
+"izin tanya, sisa stok grendizer kira kira ada berapa",stock_availability
+boleh tau kondisi fisik goldrake lebih detail,product_detail
+kalau mau refund prosesnya berapa lama,return_product
+kalau ambil sendiri ke mana,shipping_origin
+"izin tanya, gaiking ini lagi promo atau harga normal",price_promo
+item ini sold out atau belum,stock_availability
+kalau order robot jadul pengirimannya berapa lama ke jogja,shipping_transaction
+"izin tanya, ada pilihan daimos buat pemula juga ga biar lebih yakin sebelum order",product_discovery
+"saya mau tanya, di website ini ada kategori robot jadul juga karena aku masih pertimbangin juga",product_discovery
+ada cashback untuk robot jadul ga,price_promo
+"mau nanya, aku mau tau aturan refund sebelum beli karena mau buat hadiah",return_product
+share lokasi tokonya bisa,shipping_origin
+"saya mau tanya, kalau mau bayar qris tersedia ga",shipping_transaction
+mau tau harga figure robot sebelum checkout,price_promo
+pengiriman dimulai dari mana,shipping_origin
+"mau nanya, boleh tau kondisi fisik getter robo lebih detail karena aku masih pertimbangin juga",product_detail
+kalau part kurang saat diterima bisa retur kah,return_product
+bantu cariin grendizer dong kalau ada,product_discovery
+barang salah kirim bisa langsung ditukar kan biar lebih yakin sebelum order,return_product
+robot jadul sudah sold out atau belum karena rencananya mau checkout hari ini,stock_availability
+bisa kasih tahu lokasi toko,shipping_origin
+"aku mau nanya, robot jadul ini spesialis jual apa sebenarnya",general
+ongkos kirim ke depok kira kira brp,shipping_transaction
+ini toko resmi atau reseller biar ga salah pilih,general
+buat transaksi di sini bisa pakai apa aja biar lebih yakin sebelum order,shipping_transaction
+cara checkout untuk gundam gimana,shipping_transaction
+nomor order saya statusnya apa,transaction_status
+kalau mau bayar qris tersedia ga,shipping_transaction
+"kalau buat buat hadiah, combattler v ini worth it ga",recommendation
+boleh nanya dancouga ini kondisinya gimana,product_detail
+"kalau aku cari chogokin, ada yang bisa dibeli sekarang",product_discovery
+yg paling murah untuk seri super robot kisaran berapa,price_promo
+"saya mau tanya, mazinger z ini pre order atau ready stock",stock_availability
+"lagi pengen nambah getter robo, ada stok model lain juga",product_discovery
+"mau nanya, kalau nyari voltron enaknya lihat bagian mana biar ga salah pilih",product_discovery
+buat grendizer ini ada bundle harga ga,price_promo
+ada super robot yang cocok buat pajangan ga,product_discovery
+mazinger z sekarang kosong atau masih ada,stock_availability
+kalau lihat deskripsi robot jadul ini termasuk kondisi apa,product_detail
+di website ini ada kategori super robot juga karena mau buat hadiah,product_discovery
+status pembelian 4410,transaction_status
+"aku mau nanya, mau tau lokasi tokonya lebih jelas",shipping_origin
+"saya mau tanya, nomor cs yang bisa dihubungi ada ga",general
+ada pilihan mazinger z buat pemula juga ga,product_discovery
+status pesanan 9450,transaction_status
+"kalau mau mulai koleksi, pilih item apa dulu",recommendation
+"mau nanya, bisa bantu info jam operasional hari ini soalnya lagi bandingin dulu",general
+"boleh tanya, aku lagi cari seri dancouga, disini ada kah soalnya lagi bandingin dulu",product_discovery
+kalau item ternyata ga sesuai deskripsi bisa dikembalikan,return_product
+"mau nanya, aku mau pastiin voltes v masih ada sebelum bayar",stock_availability
+figure robot ini diecast atau plastik karena mau buat hadiah,product_detail
+chogokin itu sisa stoknya berapa sekarang,stock_availability
+"aku mau nanya, kalau barangnya rusak pas sampai bisa retur ga soalnya takut stoknya habis",return_product
+tolong pilihkan yg paling oke buat aku,recommendation
+kapan figure robot restock kalau habis,stock_availability
+daimos harganya berapa sekarang,price_promo
+kalau ambil langsung di toko bisa ga,shipping_transaction
+"aku mau nanya, kapan getter robo restock kalau habis karena aku masih pertimbangin juga",stock_availability
+yang paling laku di toko ini biasanya apa biar ga salah pilih,recommendation
+kalau ada kendala website lapornya ke mana biar ga salah pilih,general
+barang ini asal kirimnya dari mana,shipping_origin
+"saya mau tanya, kalau isi box ga lengkap bisa ajukan retur ga",return_product
+kalau part kurang saat diterima bisa retur kah karena rencananya mau checkout hari ini,return_product
+bantu cariin combattler v dong kalau ada,product_discovery
+combattler v ada ga di sini,product_discovery
+"aku mau nanya, kalau nyari gaiking enaknya lihat bagian mana karena rencananya mau checkout hari ini",product_discovery
+order gundam lewat website langsung bisa ya,shipping_transaction
+barang yang ini ready kah,stock_availability
+berat gaiking kurang lebih berapa,product_detail
+boleh tau kondisi fisik combattler v lebih detail,product_detail
+"aku mau nanya, setelah order nanti dapat resi juga kan",shipping_transaction
+harga nett dancouga berapa karena mau buat hadiah,price_promo
+"saya mau tanya, ready ga daimos buat dibeli sekarang",stock_availability
+"buat pajangan meja, yg cocok dari toko ini apa biar ga salah pilih",recommendation
+"aku mau nanya, aku suka robot jadul, enaknya mulai dari mana biar lebih yakin sebelum order",recommendation
+kalau lihat deskripsi combattler v ini termasuk kondisi apa biar ga salah pilih,product_detail
+retur untuk barang koleksi seperti voltron berlaku ga soalnya takut stoknya habis,return_product
+barang salah kirim bisa langsung ditukar kan,return_product
+"mau nanya, ada getter robo yg cocok buat koleksi ga",product_discovery
+"buat pajangan meja, yang cocok dari toko ini apa soalnya lagi bandingin dulu",recommendation
+"kalau aku cari super robot, ada yang bisa dibeli sekarang soalnya takut stoknya habis",product_discovery
+order daimos lewat website langsung bs ya,shipping_transaction
+saya mau tanya ada robot jadul di sini,product_discovery
+box mazinger z aman ato ada penyok karena aku masih pertimbangin juga,product_detail
+rekomendasi yang stoknya aman dan layak koleksi apa soalnya takut stoknya habis,recommendation
+ada produk figure robot buat orang yg buat hadiah ga,product_discovery
+ada item mazinger buat koleksi ga,product_discovery
+"aku mau nanya, combattler v ini pre order atau ready stock",stock_availability
+"lagi nyari goldrake, kira2 tersedia ga karena rencananya mau checkout hari ini",product_discovery
+robot jadul ini stoknya masih ada ato udah habis,stock_availability
+menurut kakak yang paling worth it yang mana,recommendation
+combattler v stock nya masih ada,stock_availability
+kalau mau tanya cepat biasanya lewat mana karena mau buat hadiah,general
+izin tanya voltron ini kondisinya gimana,product_detail
+robot kayak dancouga ada ga disini,product_discovery
+alamat lengkap toko dimana karena aku masih pertimbangin juga,shipping_origin
+mau lihat pilihan goldrake yg masih ada,product_discovery
+mau cari voltes v yg bukan preorder ada biar lebih yakin sebelum order,product_discovery
+figure robot itu masih tersedia sekarang,stock_availability
+"lagi nyari dancouga, kira2 tersedia ga",product_discovery
+bisa kirim instan atau same day ga,shipping_transaction
+"aku mau nanya, kalau untuk gaiking masih tersedia hari ini",stock_availability
+paket saya nanti dikirim dari mana,shipping_origin
+"boleh tanya, buat chogokin kondisi ready sekarang apa tidak biar ga salah pilih",stock_availability
+boleh jelasin detail super robot ini sedikit soalnya takut stoknya habis,product_detail
+ukuran gundam ini kira2 berapa,product_detail
+"izin tanya, kalau ambil figure robot masih bisa nego dikit ga",price_promo
+"saya mau tanya, harga nett figure robot berapa",price_promo
+hari ini toko buka atau tutup karena aku masih pertimbangin juga,general
+toko ini bs dikunjungi langsung kan,shipping_origin
+"aku mau sesuaikan budget, grendizer harganya brp",price_promo
+stock voltron sekarang berapa,stock_availability
+apakah toko ini fokus di koleksi robot lama karena rencananya mau checkout hari ini,general
+"boleh tanya, mau cari figure robot yg bukan preorder ada",product_discovery
+"aku mau nanya, apakah toko ini fokus di koleksi robot lama",general
+berangkatnya dari kota mana ya,shipping_origin
+"izin tanya, estimasi sampai ke bandung berapa hari soalnya takut stoknya habis",shipping_transaction
+kalau budget segini enaknya ambil apa biar lebih yakin sebelum order,recommendation
+kalau barangnya rusak pas sampai bisa retur ga karena mau buat hadiah,return_product
+harga nett grendizer berapa soalnya lagi bandingin dulu,price_promo
+produk goldrake masih masuk koleksi toko ga,product_discovery
+"izin tanya, promo untuk robot kayak super robot ada apa aja karena mau buat hadiah",price_promo
+ada grendizer yang rapi ga,product_discovery
+alamat toko di mana,shipping_origin
+barang salah kirim bisa langsung ditukar kan karena aku masih pertimbangin juga,return_product
+boleh tau kondisi fisik robot jadul lebih detail biar ga salah pilih,product_detail
+offline store kalian di mana,shipping_origin
+"aku mau nanya, aku mau sesuaikan budget, voltron harganya brp",price_promo
+asal pengiriman dari mana,shipping_origin
+syarat return barang koleksi di toko ini apa aja,return_product
+jam operasional buat bales chat sampai jam berapa,general
+"sy mau tanya, buat info umum toko paling cepat lihat di mana",general
+kontak admin lewat mana ya,general
+bs cod ga kalau tujuan jakarta,shipping_transaction
+harga robot jadul sekarang masih sama atau naik,price_promo
+grendizer yang ini ori atau repro,product_detail
+cara order lewat website ini langkahnya gimana,shipping_transaction
+"saya mau tanya, boleh jelasin detail combattler v ini sedikit karena mau buat hadiah",product_detail
+"saya mau tanya, ada cashback untuk dancouga ga karena rencananya mau checkout hari ini",price_promo
+pin lokasi toko ada,shipping_origin
+"kalau buat buat nostalgia, voltes v ini worth it ga",recommendation
+kalau cari chogokin biasanya ada pilihan berapa,product_discovery
+voltes v masih masuk barang ready ga,stock_availability
+order robot jadul lewat website langsung bisa ya,shipping_transaction
+voltes v yang ini ori atau repro,product_detail
+kalau paket datang rusak prosedurnya gimana soalnya takut stoknya habis,return_product
+invoice saya sudah dibayar belum,transaction_status
+kalau nyari getter robo enaknya lihat bagian mana,product_discovery
+produk super robot masih masuk koleksi toko ga biar lebih yakin sebelum order,product_discovery
+"izin tanya, retur untuk barang koleksi seperti gundam berlaku ga",return_product
+ada daimos yang cocok buat hadiah ga,product_discovery
+"izin tanya, kalau mau tanya cepat biasanya lewat mana",general
+kalau mau info umum paling cepat lihat di mana,general
+gudangnya di mana,shipping_origin
+"aku mau sesuaikan budget, mazinger z harganya brp",price_promo
+"boleh tanya, kalau ambil chogokin masih bs nego dikit ga",price_promo
+alamat lengkap toko dimana,shipping_origin
+"aku mau nanya, bisa cod ga kalau tujuan jakarta",shipping_transaction
+"kalau buat buat nostalgia, mazinger z ini worth it ga karena rencananya mau checkout hari ini",recommendation
+"mazinger ini masuk promo ga, harganya berapa",price_promo
+robot kayak voltes v ada ga disini,product_discovery
+toko fisiknya ada di mall atau ruko,general
+harga robot ini masih sama atau naik,price_promo
+"lagi nyari gaiking, kira kira tersedia ga",product_discovery
+kalau cari dancouga biasanya ada pilihan berapa karena aku masih pertimbangin juga,product_discovery
+voltron sekarang harganya berapa ya,price_promo
+mau cari super robot yg bukan preorder ada,product_discovery
+"saya mau tanya, aku mau pastiin gundam masih ada sebelum bayar",stock_availability
+proses return di toko ini gimana biar ga salah pilih,return_product
+"aku mau nanya, bisa cod ga kalau tujuan medan karena aku masih pertimbangin juga",shipping_transaction
+pesanan saya sudah complete belum,transaction_status
+"saya mau tanya, retur untuk barang koleksi seperti gundam berlaku ga karena rencananya mau checkout hari ini",return_product
+kalau robot jadul ada diskon ga sekarang,price_promo
+kalau mau datang langsung ke toko bisa ga,general
+kontak admin lewat mana ya karena mau buat hadiah,general
+"mau nanya, ada pilihan kurir sendiri atau otomatis",shipping_transaction
+"saya mau tanya, ini toko resmi ato reseller",general
+"kalau buat buat koleksi, chogokin ini worth it ga biar lebih yakin sebelum order",recommendation
+"saya mau tanya, kalau budget segini enaknya ambil apa karena mau buat hadiah",recommendation
+goldrake ada yang dijual sekarang,product_discovery
+dancouga masih ada berapa item,stock_availability
+"boleh tanya, kalau chogokin ada diskon ga sekarang",price_promo
+status pesanan atas nomor 6591,transaction_status
+"aku mau nanya, misalnya box penyok itu bisa komplain ga biar lebih yakin sebelum order",return_product
+"nyari daimos buat koleksi, ada ga",product_discovery
+"mau nanya, ada combattler v yg cocok buat display ga",product_discovery
+"boleh tanya, cara checkout untuk combattler v gimana",shipping_transaction
+"saya mau tanya, kalau cari yang value for money, ambil apa",recommendation
+"antara voltron dan seri lain, yang lebih worth it mana soalnya lagi bandingin dulu",recommendation
+"izin tanya, kalau kirim ke bekasi ongkirnya brp",shipping_transaction
+kalau barang ga sesuai deskripsi bisa dikembalikan ga karena mau buat hadiah,return_product
+mau tau lokasi tokonya lebih jelas karena aku masih pertimbangin juga,shipping_origin
+getter robo yang ini lagi diskon atau engga,price_promo
+refund dana biasanya masuk berapa hari soalnya takut stoknya habis,return_product
+"mau nanya, aku lagi cari seri figure robot, disini ada kah",product_discovery
+bahan dari dancouga ini apa ya,product_detail
+"aku mau nanya, kalau ada kendala website lapornya ke mana soalnya takut stoknya habis",general
+apakah toko ini fokus di koleksi robot lama,general
+kalau ternyata minusnya parah bisa balikin barang ga biar ga salah pilih,return_product
+"saya mau tanya, gaiking ini bisa digerakin ato cuma display soalnya takut stoknya habis",product_detail
+boleh nanya robot jadul ini kondisinya gimana,product_detail
+"sy mau tanya, kalau aku cari voltron, ada yang bisa dibeli sekarang",product_discovery
+transaksi saya sudah masuk sistem belum,transaction_status
+"izin tanya, harga mazinger z sekarang masih sama atau naik",price_promo
+kontak cs yang aktif sekarang ada,general
+boleh nanya ada figure robot di sini biar ga salah pilih,product_discovery
+sisa barang voltron berapa sekarang,stock_availability
+barang ini stoknya tersisa berapa ya,stock_availability
+ukuran grendizer ini kira kira berapa,product_detail
+cek status orderku sekarang,transaction_status
+chogokin itu stoknya aman atau tipis,stock_availability
+kalau mau datang ke toko alamatnya di mana,shipping_origin
+disini jual chogokin juga ato engga,product_discovery
+grendizer di bawah satu juta ada ga,price_promo
+order saya dikirim dari mana,shipping_origin
+"kalau fokus nostalgia, item yg paling menarik apa karena rencananya mau checkout hari ini",recommendation
+"aku mau nanya, bisa kirim voltes v ke bandung ga",shipping_transaction
+"saya mau tanya, robot jadul yang ini lengkap atau ada part kurang",product_detail
+"saya mau tanya, ada cabang toko selain di jakarta ga karena aku masih pertimbangin juga",general
+"mau nanya, barang gaiking msh ada stoknya ga",stock_availability
+buat goldrake ini ada bundle harga ga,price_promo
+status pembelian nomor 7543,transaction_status
+orderan aku lagi diproses kah,transaction_status
+kapan daimos restock kalau habis soalnya takut stoknya habis,stock_availability
+"mau nanya, kalau fokus nostalgia, item yang paling menarik apa",recommendation
+"buat koleksi pemula, robot yg cocok apa ya",recommendation
+cek invoice saya,transaction_status
+"kalau cari yang value for money, ambil apa",recommendation
+stock combattler v sekarang udah kosong belum soalnya takut stoknya habis,stock_availability
+kalau kirim ke jogja ongkirnya berapa,shipping_transaction
+"izin tanya, kalau budget segini enaknya ambil apa",recommendation
+order 4410 statusnya gimana,transaction_status
+"kalau aku cari combattler v, ada yang bisa dibeli sekarang biar lebih yakin sebelum order",product_discovery
+yang paling laku di toko ini biasanya apa,recommendation
+buat goldrake kondisi ready sekarang apa ga soalnya lagi bandingin dulu,stock_availability
+"aku mau nanya, kalau cari yg value for money, ambil apa biar lebih yakin sebelum order",recommendation
+antara chogokin sama figure biasa lebih bagus mana,recommendation
+"mau nanya, mau bayar pakai transfer bisa kan",shipping_transaction
+cek status pesananku dong,transaction_status
+"izin tanya, kalau ada kendala website lapornya ke mana biar ga salah pilih",general
+"saya mau tanya, bisa kirim grendizer ke semarang ga",shipping_transaction
+chogokin yg ini masih ada kah biar ga salah pilih,stock_availability
+isi box figure robot ini apa aja,product_detail
+tolong lihat status pesananku,transaction_status
+bisa kirim luar kota untuk combattler v kan soalnya lagi bandingin dulu,shipping_transaction
+status paket dari order saya bagaimana,transaction_status
+boleh kasih shareloc toko,shipping_origin
+kalau barangnya rusak pas sampai bisa retur ga karena rencananya mau checkout hari ini,return_product
+"boleh tanya, kalau fokus nostalgia, item yang paling menarik apa",recommendation
+robot jadul basecamp-nya di mana,shipping_origin
+"boleh tanya, lagi cari ada figure robot di sini",product_discovery
+"mau nanya, buat gundam ini ada bundle harga ga",price_promo
+kalau order figure robot pengirimannya brp lama ke tangerang,shipping_transaction
+artikulasi figure robot ini gimana,product_detail
+ini ori atau repro ya detailnya gimana,product_detail
+bisa kasih tau range harga grendizer,price_promo
+rekomendasi yg stoknya aman dan layak koleksi apa,recommendation
+bisa bantu info jam operasional hari ini,general
+kalau order super robot pengirimannya berapa lama ke bogor,shipping_transaction
+kalau mazinger z ada diskon ga sekarang,price_promo
+bisa bantu cek status order 4217,transaction_status
+minta rekomendasi dong yg paling bagus buat display karena mau buat hadiah,recommendation
+"aku mau nanya, kalau mau mulai koleksi, pilih item apa dulu karena rencananya mau checkout hari ini",recommendation
+kalian ada di kota mana,shipping_origin
+status order nomor 6864,transaction_status
+goldrake sekarang masih ada stok berapa,stock_availability
+mau cek status pesanan,transaction_status
+cek status order 5120,transaction_status
+"boleh tanya, kalau mau tanya cepat biasanya lewat mana karena aku masih pertimbangin juga",general
+ada gundam yg cocok buat koleksi ga,product_discovery
+kalau ada kendala website lapornya ke mana,general
+"aku mau nanya, retur barang ada batas waktunya ga soalnya lagi bandingin dulu",return_product
+kalau order figure robot pengirimannya berapa lama ke depok,shipping_transaction
+order 3007 sudah dikirim atau belum,transaction_status
+di website ini ada kategori daimos juga karena aku masih pertimbangin juga,product_discovery
+disini jual grendizer juga ato engga,product_discovery
+"kalau buat buat display, voltes v ini worth it ga",recommendation
+refund masuk ke rekening biasanya berapa hari kerja,return_product
+"boleh tanya, ini toko ada offline juga atau cuma online biar lebih yakin sebelum order",shipping_origin
+buat combattler v kondisi ready sekarang apa tidak biar ga salah pilih,stock_availability
+barang ini kirim dari mana,shipping_origin
+harga voltes v sekarang berapa,price_promo
+"izin tanya, buat gundam ini ada potongan harga ato ega",price_promo
+"saya mau tanya, tolong pilihkan yg paling oke buat aku",recommendation
+buat info umum toko paling cepat lihat di mana biar ga salah pilih,general
+"aku mau nanya, buat info umum toko paling cepat lihat di mana biar ga salah pilih",general
+order #7543 lagi diproses kah,transaction_status
+"saya mau tanya, barang super robot masih ada stoknya ga",stock_availability
+"saya mau tanya, kalau barang ga sesuai deskripsi bisa dikembalikan ga",return_product
+kalau checkout gagal biasanya harus gimana,shipping_transaction
+"aku lagi bandingin, gaiking ini kelebihannya di mana karena mau buat hadiah",product_detail
+"saya mau tanya, kalau cari voltron biasanya ada pilihan berapa",product_discovery
+bisa cod ga kalau tujuan jogja soalnya takut stoknya habis,shipping_transaction
+"aku lagi cari seri robot jadul, disini ada kah soalnya lagi bandingin dulu",product_discovery
+pembelian aku sudah masuk belum,transaction_status
+"aku mau nanya, apakah toko ini fokus di koleksi robot lama karena mau buat hadiah",general
+barang cacat bisa tukar unit atau engga,return_product
+"saya mau tanya, kalau ternyata minusnya parah bisa balikin barang ga biar ga salah pilih",return_product
+minta titik lokasi toko dong,shipping_origin
+combattler v ini pre order ato ready stock karena rencananya mau checkout hari ini,stock_availability
+mazinger z ini lagi promo ato harga normal,price_promo
+disini jual grendizer juga atau engga karena rencananya mau checkout hari ini,product_discovery
+kalau part kurang saat diterima bs retur kah,return_product
+barang biasanya dikirim dari mana,shipping_origin
+"kalau cari yg value for money, ambil apa",recommendation
+boleh jelasin detail gaiking ini sedikit,product_detail
+rekomendasi yang stoknya aman dan layak koleksi apa,recommendation
+"mau nanya, kalau untuk mazinger z msh tersedia hari ini",stock_availability
+"buat display di lemari, produk yang paling cocok apa",recommendation
+"aku mau nanya, buat koleksi pemula, robot yg cocok apa ya",recommendation
+"mau nanya, kapan super robot restock kalau habis",stock_availability
+hari ini toko buka atau tutup karena rencananya mau checkout hari ini,general
+bisa kirim voltron ke bandung ga,shipping_transaction
+"aku mau nanya, ukuran mazinger z ini kira kira brp biar ga salah pilih",product_detail
+"mau nanya, bisa kirim gundam ke bandung ga soalnya takut stoknya habis",shipping_transaction
+"mau nanya, proses return di toko ini gimana",return_product
+kalau barang datang rusak terus saya komplain prosesnya gimana,return_product
+minta rekomendasi dong yang paling bagus buat display,recommendation
+"boleh tanya, komplain barang rusak harus lewat mana",return_product
+"mau nanya, robot kayak daimos ada ga disini",product_discovery
+pesanan saya masih pending atau sudah lunas,transaction_status
+ready ga daimos buat dibeli sekarang karena rencananya mau checkout hari ini,stock_availability
+nomor cs yg bisa dihubungi ada ga karena rencananya mau checkout hari ini,general
+"mau yg bagus tapi ga terlalu mahal, saran apa karena mau buat hadiah",recommendation
+"buat display di lemari, produk yang paling cocok apa biar ga salah pilih",recommendation
+mau tau toko fisiknya di mana,shipping_origin
+"mau nanya, website ini jual barang apa aja",general
+mau tahu progres pesanan saya,transaction_status
+"boleh tanya, hari ini toko buka atau tutup",general
+"aku mau nanya, metode pembayaran di toko ini apa aja",shipping_transaction
+"mau nanya, estimasi sampai ke bekasi berapa hari karena rencananya mau checkout hari ini",shipping_transaction
+buat voltes v kondisi ready sekarang apa tidak,stock_availability
+mau tau spek lengkap getter robo sebelum beli,product_detail
+ada pilihan goldrake buat pemula juga ga,product_discovery
+kalau voltes v ini lagi sale ga sih,price_promo
+getter robo ini lagi promo atau harga normal,price_promo
+warna pada combattler v ini msh bagus ga,product_detail
+"aku mau nanya, kalau budget segini enaknya ambil apa",recommendation
+id order 9450 statusnya apa,transaction_status
+"mau nanya, komplain barang rusak harus lewat mana",return_product
+kalau ternyata minusnya parah bisa balikin barang ga biar lebih yakin sebelum order,return_product
+mau cek getter robo masih ready sekarang ga,stock_availability
+"aku mau nanya, disini jual chogokin juga ato ega",product_discovery
+nomor cs yg bisa dihubungi ada ga,general
+"stok daimos aman ga, tinggal berapa",stock_availability
+cek order nomor 5321,transaction_status
+"mau nanya, boleh jelasin detail daimos ini sedikit",product_detail
+"saya mau tanya, disini jual gundam juga atau engga",product_discovery
+"aku mau nanya, kalau kirim ke depok ongkirnya berapa",shipping_transaction
+barang ini dikirim dari jakarta kah,shipping_origin
+retur untuk barang koleksi seperti mazinger z berlaku ga,return_product
+"aku mau nanya, yang paling sering dicari orang biasanya apa sih",recommendation
+langkah pembayaran setelah checkout gimana karena rencananya mau checkout hari ini,shipping_transaction
+daimos ini diecast atau plastik,product_detail
+"kalau cari yang value for money, ambil apa soalnya lagi bandingin dulu",recommendation
+"saya mau tanya, mazinger z masih masuk list barang ready ga karena aku masih pertimbangin juga",stock_availability
+"mau nanya, kalau checkout gagal biasanya harus gimana",shipping_transaction
+ini toko resmi atau reseller,general
+produk dikirim dari wilayah mana,shipping_origin
+"sy mau tanya, kalau checkout gagal biasanya harus gimana",shipping_transaction
+kalau robot jadul ini lagi sale ga sih soalnya takut stoknya habis,price_promo
+"aku mau nanya, kalau paket datang rusak prosedurnya gimana",return_product
+"saya mau tanya, buat info umum toko paling cepat lihat di mana",general
+langkah pembayaran setelah checkout gimana,shipping_transaction
+"saya mau tanya, mau lihat pilihan voltes v yang masih ada karena mau buat hadiah",product_discovery
+"mau nanya, buat figure robot ini ada bundle harga ga",price_promo
+status pembayaran untuk order 4410,transaction_status
+"mau yang bagus tapi ga terlalu mahal, saran apa",recommendation
+ongkos kirim ke bogor kira kira berapa,shipping_transaction
+order saya belum ada update ya,transaction_status
+disini jual mazinger z juga atau engga biar ga salah pilih,product_discovery
+"saya mau tanya, apakah toko ini fokus di koleksi robot lama karena rencananya mau checkout hari ini",general
+range harga voltes v sekarang berapa,price_promo
+transaksi 3007 lagi diproses ya,transaction_status
+buat info umum toko paling cepat lihat di mana,general
+ready ga combattler v buat dibeli sekarang,stock_availability
+robot jadul ada ga di toko ini,product_discovery
+"boleh tanya, harga super robot sekarang msh sama atau naik",price_promo
+"mau nanya, ukuran gundam ini kira kira berapa karena rencananya mau checkout hari ini",product_detail
+kalau mau refund prosesnya berapa lama biar ga salah pilih,return_product
+"mau nanya, pengiriman grendizer aman ga kalau ke tangerang",shipping_transaction
+toko ini resmi atau toko kolektor biasa,general
+pesanan saya sudah verified belum,transaction_status
+kalau kirim ke jogja ongkirnya brp,shipping_transaction
+"saya mau tanya, ini toko ada offline juga atau cuma online soalnya takut stoknya habis",shipping_origin
+boleh tau kondisi fisik super robot lebih detail,product_detail
+"sy mau tanya, website ini jual barang apa aja",general
+ada grendizer yang bisa dilihat,product_discovery
+super robot ini diecast ato plastik,product_detail
+"izin tanya, voltron ini masuk promo bulanan ga",price_promo
+status order 5321 bagaimana,transaction_status
+"aku mau nanya, kalau fokus nostalgia, item yg paling menarik apa",recommendation
+kalau untuk goldrake masih tersedia hari ini,stock_availability
+"buat koleksi pemula, robot yg cocok apa ya soalnya takut stoknya habis",recommendation
+jam buka toko sampai berapa,general
+orderan saya sudah jalan belum,transaction_status
+"boleh tanya, kalau mau tanya cepat biasanya lewat mana",general
+retur untuk barang koleksi seperti getter robo berlaku ga karena mau buat hadiah,return_product
+kalian ada store fisik di mana,shipping_origin
+super robot sudah sold out atau belum,stock_availability
+produk robot jadul masih masuk koleksi toko ga,product_discovery
+harga daimos sekarang berapa,price_promo
+komplain barang bermasalah lewat admin atau form khusus,return_product
+voltes v ini masuk promo bulanan ga,price_promo
+buat voltes v ini ada bundle harga ga soalnya lagi bandingin dulu,price_promo
+"izin tanya, buat gundam kondisi ready sekarang apa ga karena rencananya mau checkout hari ini",stock_availability
+berat figure robot kurang lebih berapa,product_detail
+"kalau fokus nostalgia, item yang paling menarik apa biar lebih yakin sebelum order",recommendation
+gundam yang itu masih ada stoknya,stock_availability
+"kalau buat buat simpan pribadi, grendizer ini worth it ga",recommendation
+lokasi offline storenya di mana,shipping_origin
+"aku mau nanya, lagi nyari chogokin, kira2 tersedia ga",product_discovery
+"antara combattler v dan seri lain, yang lebih worth it mana karena mau buat hadiah",recommendation
+kalau paket datang rusak prosedurnya gimana,return_product
+biaya kirim balik saat retur ditanggung siapa,return_product
+ongkos kirim ke surabaya kira2 berapa,shipping_transaction
+robot jadul lokasinya di mana,shipping_origin
+"kalau cari yang value for money, ambil apa soalnya takut stoknya habis",recommendation
+ukuran voltes v ini kira kira brp,product_detail
+retur untuk barang koleksi seperti voltron berlaku ga soalnya lagi bandingin dulu,return_product
+order #8123 statusnya apa,transaction_status
+alamat lengkap gudangnya di mana,shipping_origin
+akun toko ini aktif tiap hari ga biar ga salah pilih,general
+"saya mau tanya, msh ada unit figure robot yg bisa diambil sekarang",stock_availability
+estimasi sampai ke depok berapa hari,shipping_transaction
+misalnya isi box ga lengkap bisa retur ga,return_product
+kalau combattler v sekarang masih bisa langsung checkout ga karena mau buat hadiah,stock_availability
+super robot tinggal sedikit ato masih banyak karena mau buat hadiah,stock_availability
+"mau nanya, kalau mau refund prosesnya berapa lama soalnya takut stoknya habis",return_product
+"izin tanya, barang cacat bs tukar unit atau engga",return_product
+mau tau lokasi tokonya lebih jelas,shipping_origin
+robot jadul tinggal sedikit atau masih banyak karena aku masih pertimbangin juga,stock_availability
+"aku mau nanya, pakai ekspedisi apa biasanya untuk kirim barang",shipping_transaction
+boleh tau detail part dan aksesorisnya,product_detail
+stoknya ada di gudang mana,shipping_origin
+kalau ada masalah setelah barang diterima harus gimana soalnya takut stoknya habis,return_product
+"mau nanya, kalau weekend toko buka seperti biasa ga soalnya lagi bandingin dulu",general
+"lagi nyari robot jadul, kira2 tersedia ga karena rencananya mau checkout hari ini",product_discovery
+estimasi sampai ke jakarta berapa hari,shipping_transaction
+kalau barang ga sesuai deskripsi bisa dikembalikan ga,return_product
+"izin tanya, mau tau lokasi tokonya lebih jelas",shipping_origin
+produk daimos masih masuk koleksi toko ga biar lebih yakin sebelum order,product_discovery
+"boleh tanya, setelah order nanti dapat resi juga kan soalnya takut stoknya habis",shipping_transaction
+cek transaksi nomor 4410,transaction_status
+"boleh tanya, ada pilihan kurir sendiri atau otomatis soalnya takut stoknya habis",shipping_transaction
+kalau getter robo ada diskon ga sekarang,price_promo
+"mau nanya, warna pada getter robo ini masih bagus ga",product_detail
+ongkos kirim ke medan kira kira brp karena mau buat hadiah,shipping_transaction
+"antara grendizer dan seri lain, yang lebih worth it mana",recommendation
+"mau nanya, ini toko resmi ato reseller",general
+kalau mau datang langsung ke toko bs ga,general
+kalau cari daimos biasanya ada pilihan berapa,product_discovery
+cek status orderan dong,transaction_status
+"izin tanya, yang paling laku di toko ini biasanya apa biar ga salah pilih",recommendation
+toko ini bisa dikunjungi langsung kan karena rencananya mau checkout hari ini,shipping_origin
+jam buka toko sampai berapa biar ga salah pilih,general
+barang ini dikirim dari daerah mana,shipping_origin
+ada produk figure robot buat orang yang buat koleksi ga,product_discovery
+minta rekomendasi dong yg paling bagus buat display,recommendation
+kirimnya dari mana,shipping_origin
+"mau nanya, bahan dari voltes v ini apa ya",product_detail
+buat mulai koleksi robot jadul enaknya dari mana,recommendation
+barang dikirim dari gudang mana,shipping_origin
+"izin tanya, harga dancouga sekarang masih sama atau naik",price_promo
+"izin tanya, kalau buat buat display, goldrake ini worth it ga",recommendation
+proses return di toko ini gimana,return_product
+"boleh tanya, hari ini toko buka ato tutup",general
+lokasi toko di mana,shipping_origin
+goldrake di bawah satu juta ada ga soalnya lagi bandingin dulu,price_promo
+yang value for money nya paling bagus apa,recommendation
+harga robot jadul sekarang berapa,price_promo
+robot kayak gaiking ada ga disini,product_discovery
+kalau barang ga sesuai deskripsi bisa dikembalikan ga biar lebih yakin sebelum order,return_product
+stok robot itu masih banyak atau tinggal sedikit,stock_availability
+"saya mau tanya, kalau robot jadul sekarang masih bisa langsung checkout ga biar lebih yakin sebelum order",stock_availability
+"saya mau tanya, ada mazinger z yg aman ga karena rencananya mau checkout hari ini",product_discovery
+yang paling laku di toko ini apa sih,recommendation
+"boleh tanya, buat transaksi di sini bisa pakai apa aja",shipping_transaction
+kalau mau datang langsung ke toko bisa ga biar lebih yakin sebelum order,general
+retur untuk barang koleksi seperti grendizer berlaku ga,return_product
+"izin tanya, refund dana biasanya masuk berapa hari",return_product
+voltron masih masuk list barang ready ga,stock_availability
+"izin tanya, kalau buat buat koleksi, getter robo ini worth it ga",recommendation
+bisa kirim voltron ke bogor ga,shipping_transaction
+kalau chogokin ini lagi sale ga sih,price_promo
+"boleh tanya, mazinger z tinggal sedikit ato masih banyak",stock_availability
+"aku mau nanya, gundam di bawah satu juta ada ga",price_promo
+ada pilihan voltron buat pemula juga ga karena rencananya mau checkout hari ini,product_discovery
+"sy mau tanya, pakai ekspedisi apa biasanya untuk kirim barang",shipping_transaction
+produk daimos masih masuk koleksi toko ga,product_discovery
+"izin tanya, kalau cari yang value for money, ambil apa",recommendation
+"izin tanya, buat info umum toko paling cepat lihat di mana biar ga salah pilih",general
+kalau mau ambil langsung lokasinya di mana,shipping_origin
+dancouga ini masuk promo bulanan ga,price_promo
+mending pilih chogokin atau figure biasa ya,recommendation
+buat dancouga kondisi ready sekarang apa ga,stock_availability
+"boleh tanya, alamat lengkap toko dimana",shipping_origin
+retur barang ada batas waktunya ga karena mau buat hadiah,return_product
+"aku mau nanya, barang cacat bisa tukar unit atau engga",return_product
+"boleh tanya, kalau lihat deskripsi gaiking ini termasuk kondisi apa",product_detail
+"aku mau nanya, kalau barangnya rusak pas sampai bisa retur ga",return_product
+"izin tanya, nomor cs yang bisa dihubungi ada ga biar lebih yakin sebelum order",general
+dancouga sudah sold out ato belum,stock_availability
+bahan dari chogokin ini apa ya karena rencananya mau checkout hari ini,product_detail
+"aku mau nanya, mau yang bagus tapi ga terlalu mahal, saran apa",recommendation
+"boleh tanya, hari ini toko buka ato tutup soalnya takut stoknya habis",general
+kalau ambil langsung di toko bisa ga soalnya takut stoknya habis,shipping_transaction
+"mau nanya, langkah pembayaran setelah checkout gimana",shipping_transaction
+stock daimos sekarang udah kosong belum soalnya lagi bandingin dulu,stock_availability
+invoice 4410 sudah dibayar belum,transaction_status
+di website ini ada kategori chogokin juga karena mau buat hadiah,product_discovery
+"lagi pengen nambah gundam, ada stok model lain juga karena rencananya mau checkout hari ini",product_discovery
+alamat warehouse di mana,shipping_origin
+"izin tanya, kalau buat buat simpan pribadi, grendizer ini worth it ga",recommendation
+"antara super robot dan seri lain, yang lebih worth it mana",recommendation
+barang di-ship dari gudang mana,shipping_origin
+mazinger z yang ini lengkap atau ada part kurang,product_detail
+mau tanya kebijakan return di toko ini biar lebih yakin sebelum order,return_product
+"aku mau nanya, antara super robot dan seri lain, yang lebih worth it mana",recommendation
+boleh minta alamat lengkap toko,shipping_origin
+kalau ke jogja biasanya sampainya berapa hari,shipping_transaction
+estimasi sampai ke surabaya berapa hari,shipping_transaction
+"aku mau nanya, detail sambungan ato artikulasi super robot gimana soalnya lagi bandingin dulu",product_detail
+kalau ambil getter robo msh bisa nego dikit ga biar ga salah pilih,price_promo
+"izin tanya, mau cek dancouga masih ready sekarang ga karena aku masih pertimbangin juga",stock_availability
+mau tahu status order saya,transaction_status
+kirim ke surabaya ongkirnya mahal ga,shipping_transaction
+asal warehouse kalian di mana,shipping_origin
+kalau gundam sekarang masih bisa langsung checkout ga,stock_availability
+"boleh tanya, misalnya box penyok itu bisa komplain ga",return_product
+"aku mau nanya, super robot masih masuk list barang ready ga",stock_availability
+daimos yang ini lengkap atau ada part kurang,product_detail
+bahan gundam yang ini apa,product_detail
+komplain barang rusak harus lewat mana biar lebih yakin sebelum order,return_product
+"izin tanya, lagi pengen nambah figure robot, ada stok model lain juga",product_discovery
+"saya mau tanya, kalau ternyata minusnya parah bisa balikin barang ga",return_product
+alamat operasional toko di mana,shipping_origin
+chogokin yg ini msh ada kah,stock_availability
+mau bayar pakai transfer bisa kan karena mau buat hadiah,shipping_transaction
+website ini khusus jual robot jadul ya,general
+"aku mau nanya, rekomendasi yg stoknya aman dan layak koleksi apa karena aku masih pertimbangin juga",recommendation
+cara cek ongkir sebelum bayar gimana,shipping_transaction
+"kalau buat buat koleksi, mazinger z ini worth it ga",recommendation
+pesanan 5321 sudah dikirim belum,transaction_status
+"aku lagi bandingin, getter robo ini kelebihannya di mana",product_detail
+ini toko ada offline juga atau cuma online soalnya lagi bandingin dulu,shipping_origin
+toko ini ada cabang lain ga,general
+getter robo ini diecast atau plastik biar ga salah pilih,product_detail
+"kalau aku cari getter robo, ada yang bisa dibeli sekarang biar ga salah pilih",product_discovery
+dikirim dari mana,shipping_origin
+"saya mau tanya, lagi cari kisaran harga voltron soalnya lagi bandingin dulu",price_promo
+asal toko kalian dari mana,shipping_origin
+mazinger z ini ada minus di bagian tertentu ga,product_detail
+"aku mau nanya, ada super robot yg oke ga",product_discovery
+"mau nanya, bisa kirim voltron ke semarang ga",shipping_transaction
+"izin tanya, yang paling laku di toko ini biasanya apa",recommendation
+"mau nanya, kalau untuk voltron masih tersedia hari ini",stock_availability
+cek status order saya,transaction_status
+warehouse robot jadul di kota mana,shipping_origin
+estimasi sampai ke surabaya brp hari,shipping_transaction
+pickup di mana lokasinya,shipping_origin
+"boleh tanya, metode pembayaran di toko ini apa aja",shipping_transaction
+transaksi saya sudah berhasil atau belum,transaction_status
+tinggal berapa pcs buat voltron ini,stock_availability
+retur untuk barang koleksi seperti voltes v berlaku ga,return_product
+packing aman buat kirim luar kota ga,shipping_transaction
+voltron masih ready sekarang ga,stock_availability
+pengirimannya start dari mana,shipping_origin
+ada cabang toko selain di jakarta ga,general
+detail sambungan atau artikulasi chogokin gimana biar ga salah pilih,product_detail
+"antara gaiking dan seri lain, yang lebih worth it mana biar ga salah pilih",recommendation
+"izin tanya, proses return di toko ini gimana",return_product
+ada cabang toko selain di jakarta ga karena mau buat hadiah,general
+retur ribet ga prosesnya di toko ini,return_product
+robot jadul ini spesialis jual apa sebenarnya karena mau buat hadiah,general
+kalau budget segini enaknya ambil apa,recommendation
+warna pada daimos ini masih bagus ga,product_detail
+kirim dari mana min,shipping_origin
+buat grendizer kondisi ready sekarang apa tidak karena aku masih pertimbangin juga,stock_availability
+komplain barang rusak harus lewat mana soalnya takut stoknya habis,return_product
+kondisi fisik goldrake ini masih mulus ga,product_detail
+setelah order proses verifikasi pembayarannya lama ga,shipping_transaction
+"izin tanya, ada mazinger z yang oke ga",product_discovery
+"boleh tanya, msh ada unit grendizer yang bisa diambil sekarang biar lebih yakin sebelum order",stock_availability
+pengiriman dari mana,shipping_origin
+retur untuk barang koleksi seperti super robot berlaku ga,return_product
+kalau nyari daimos enaknya lihat bagian mana karena aku masih pertimbangin juga,product_discovery
+berat mazinger z kurang lebih berapa karena aku masih pertimbangin juga,product_detail
+kalau figure robot ini lagi sale ga sih,price_promo
+asal paket dikirim dari mana,shipping_origin
+"mau nanya, butuh info mazinger z ini kondisinya gimana biar lebih yakin sebelum order",product_detail
+nomor invoice 7543 statusnya bagaimana,transaction_status
+kalau ternyata minusnya parah bs balikin barang ga,return_product
+orderan saya sampai mana,transaction_status
+kalau nyari figure robot enaknya lihat bagian mana,product_discovery
+"kalau buat buat hadiah, getter robo ini worth it ga",recommendation
+ada toko fisik tidak,shipping_origin
+kalau mau refund prosesnya berapa lama karena aku masih pertimbangin juga,return_product
+"mau nanya, mau cek mazinger z masih ready sekarang ga",stock_availability
+"aku lagi bandingin, dancouga ini kelebihannya di mana biar lebih yakin sebelum order",product_detail
+kalau weekend buka seperti biasa atau beda jam,general
+"boleh tanya, buat info umum toko paling cepat lihat di mana",general
+mau cek order 7001,transaction_status
+"aku mau nanya, ada cabang toko selain di jakarta ga",general
+pesanan id 7543 sampai mana,transaction_status
+cara checkout untuk getter robo gimana,shipping_transaction
+"aku mau nanya, kalau grendizer ada diskon ga sekarang",price_promo
+status invoice saya,transaction_status
+"aku mau nanya, berat figure robot kurang lebih berapa",product_detail
+tokonya bisa didatengin langsung atau online aja,general
+ukuran dancouga ini kira kira berapa,product_detail
+"mau nanya, mau cek voltron masih ready sekarang ga",stock_availability
+bisa cod ga kalau tujuan medan,shipping_transaction
+di daerah mana tokonya,shipping_origin
+invoice 5321 statusnya apa,transaction_status
+goldrake tinggal sedikit atau masih banyak,stock_availability
+"antara chogokin dan seri lain, yg lebih worth it mana",recommendation
+"mau nanya, mau cek gaiking masih ready sekarang ga",stock_availability
+asal toko ini di mana,shipping_origin
+"mau nanya, syarat pengembalian barang di toko ini apa aja soalnya lagi bandingin dulu",return_product
+"kalau aku cari dancouga, ada yang bs dibeli sekarang",product_discovery
+order saya udah sampe tahap shipping belum,transaction_status
+getter robo ini worth it ga dari sisi harga karena aku msh pertimbangin juga,price_promo
+"boleh tanya, buat display di lemari, produk yang paling cocok apa biar lebih yakin sebelum order",recommendation
+status pesanan saya sudah shipped belum,transaction_status
+bisa kirim daimos ke surabaya ga,shipping_transaction
+batas waktu pengajuan retur berapa hari,return_product
+"sy mau tanya, mau cek figure robot masih ready sekarang ga",stock_availability
+setelah bayar nanti nomor resi dikirim juga kan,shipping_transaction
+grendizer yang ini lengkap atau ada part kurang,product_detail
+"izin tanya, aku mau tau aturan refund sebelum beli",return_product
+getter robo kisaran harganya berapa,price_promo
+buat transaksi di sini bs pakai apa aja,shipping_transaction
+ada chogokin yang rapi ga soalnya takut stoknya habis,product_discovery
+apakah toko ini fokus di koleksi robot lama soalnya lagi bandingin dulu,general
+"izin tanya, antara grendizer dan seri lain, yang lebih worth it mana",recommendation
+chogokin ini bisa digerakin atau cuma display soalnya takut stoknya habis,product_detail
+kalau weekend toko buka seperti biasa ga biar ga salah pilih,general
+mau tau spek lengkap mazinger z sebelum beli,product_detail
+grendizer ini bisa digerakin ato cuma display,product_detail
+paket saya nanti berangkat dari mana ya,shipping_origin
+"aku mau nanya, robot jadul ini lagi promo atau harga normal",price_promo
+robot kayak daimos ada ga disini biar lebih yakin sebelum order,product_discovery
+ready stock getter robo tinggal berapa,stock_availability
+"izin tanya, isi box super robot ini apa aja",product_detail
+"aku mau nanya, kalau weekend toko buka seperti biasa ga biar lebih yakin sebelum order",general
+versi chogokin yg ini rilisan tahun brp,product_detail
+transaksi nomor 9182 statusnya apa,transaction_status
+barangnya berangkat dari mana,shipping_origin
+kalau isi box ga lengkap bisa ajukan retur ga karena aku msh pertimbangin juga,return_product
+"mau nanya, harga produk grendizer fix atau masih fleksibel karena mau buat hadiah",price_promo
+status pembayaran order saya,transaction_status
+ini toko resmi atau reseller karena mau buat hadiah,general
+detail sambungan ato artikulasi figure robot gimana,product_detail
+bisa cod ga kalau tujuan bekasi,shipping_transaction
+"saya mau tanya, lagi nyari goldrake, kira kira tersedia ga",product_discovery
+"aku lagi cari seri dancouga, disini ada kah",product_discovery
+"saya mau tanya, bisa kirim luar kota untuk voltes v kan",shipping_transaction
+status pesanan 3007 bagaimana,transaction_status
+"lagi bingung pilih, mending ambil yg mana",recommendation
+status orderan saya,transaction_status
+invoice 4217 statusnya bagaimana,transaction_status
+status invoice 7788,transaction_status
+figure robot yang model lawas ada ga,product_discovery
+pusat pengirimannya di mana,shipping_origin
+figure robot ini masuk promo bulanan ga soalnya lagi bandingin dulu,price_promo
+"mau nanya, kalau part kurang saat diterima bisa retur kah",return_product
+tahun rilis produk ini kapan,product_detail
+order saya statusnya apa ya,transaction_status
+"aku mau nanya, cara checkout untuk combattler v gimana",shipping_transaction
+mau tahu alamat lengkap toko,shipping_origin
+kondisi box dan unit nya gimana ya,product_detail
+produk ini dikirim dari mana,shipping_origin
+mau tau harga super robot sebelum checkout,price_promo
+"mau nanya, cara checkout untuk voltes v gimana biar lebih yakin sebelum order",shipping_transaction
+pesanan saya sudah masuk belum,transaction_status
+pengiriman gundam aman ga kalau ke jogja karena mau buat hadiah,shipping_transaction
+status order saya,transaction_status
+disini jual mazinger z juga ga,product_discovery
+"boleh tanya, yang paling sering dicari orang biasanya apa sih",recommendation
+"saya mau tanya, order gundam lewat website langsung bisa ya",shipping_transaction
+"mau nanya, cara checkout untuk gundam gimana",shipping_transaction
+dancouga udah habis belum sekarang,stock_availability
+pesanan saya sedang di tahap apa,transaction_status
+cek pesanan nomor 1032,transaction_status
+part daimos ini lengkap semua ga,product_detail
+toko fisiknya ada di kota mana,shipping_origin
+deskripsi item ini lebih detail dong,product_detail
+barang kurang part bisa tukar unit atau engga,return_product
+pengiriman barang besar aman ga,shipping_transaction
+pesanan saya sudah selesai belum,transaction_status
+pesananku udah dikirim belum,transaction_status
+kalau weekend toko buka seperti biasa ga,general
+ada pilihan kurir sendiri atau otomatis,shipping_transaction
+"kalau buat buat nostalgia, gaiking ini worth it ga karena aku masih pertimbangin juga",recommendation
+mau cek combattler v masih ready sekarang ga karena rencananya mau checkout hari ini,stock_availability
+"boleh tanya, bs kirim combattler v ke depok ga",shipping_transaction
+"aku mau nanya, aku mau pastiin super robot masih ada sebelum bayar",stock_availability
+"aku mau nanya, kalau ada masalah setelah barang diterima harus gimana soalnya takut stoknya habis",return_product
+kalau pemula mulai dari item yang mana,recommendation
+"mau nanya, syarat pengembalian barang di toko ini apa aja",return_product
+"boleh tanya, barang super robot msh ada stoknya ga karena mau buat hadiah",stock_availability
+refund dana biasanya masuk berapa hari,return_product
+stock gaiking sekarang udah kosong belum karena mau buat hadiah,stock_availability
+kalau part kurang saat diterima bisa retur kah biar lebih yakin sebelum order,return_product
+kalau order chogokin pengirimannya berapa lama ke jakarta karena rencananya mau checkout hari ini,shipping_transaction
+pembelian saya statusnya bagaimana,transaction_status
+transaksi saya lagi diproses ya,transaction_status
+aku mau pastiin combattler v msh ada sebelum bayar,stock_availability
+produk mazinger z masih masuk koleksi toko ga,product_discovery
+"aku mau nanya, mau yg bagus tapi ga terlalu mahal, saran apa",recommendation
+"boleh tanya, aku mau pastiin gundam masih ada sebelum bayar soalnya lagi bandingin dulu",stock_availability
+kalau budget segini mending ambil apa,recommendation
+langkah pembayaran setelah checkout gimana biar lebih yakin sebelum order,shipping_transaction
+"mau nanya, akun toko ini aktif tiap hari ga",general
+"izin tanya, ini toko ada offline juga ato cuma online karena aku masih pertimbangin juga",shipping_origin
+"buat display di lemari, produk yang paling cocok apa karena rencananya mau checkout hari ini",recommendation
+gundam yang ini ori atau repro,product_detail
+buat figure robot ini ada bundle harga ga,price_promo
+kalau weekend toko buka seperti biasa ga biar lebih yakin sebelum order,general
+"izin tanya, bisa bantu info jam operasional hari ini",general
+harga figure robot sekarang berapa biar ga salah pilih,price_promo
+hari ini toko buka atau tutup karena mau buat hadiah,general
+pesanan saya masih dipacking atau sudah jalan,transaction_status
+boleh jelasin spesifikasi voltron ini,product_detail
+"mau nanya, kalau cari yg value for money, ambil apa",recommendation
+setelah order nanti dapat resi juga kan,shipping_transaction
+cek order 7543 dong,transaction_status
+ada pilihan kurir sendiri ato otomatis,shipping_transaction
+"mau nanya, yang paling laku di toko ini biasanya apa biar ga salah pilih",recommendation
+kalau order gaiking pengirimannya berapa lama ke bandung,shipping_transaction
+"saya mau tanya, order getter robo lewat website langsung bisa ya",shipping_transaction
+"boleh tanya, super robot masih dijual di toko ini atau udah ga ada",product_discovery
+"saya mau tanya, kalau mau tanya cepat biasanya lewat mana",general
+voltes v ini lagi promo atau harga normal,price_promo
+"izin tanya, aku mau pastiin figure robot masih ada sebelum bayar",stock_availability
+"aku mau nanya, komplain barang rusak harus lewat mana",return_product
+mau tanya kebijakan return di toko ini,return_product
+"aku mau nanya, aku suka robot jadul, enaknya mulai dari mana",recommendation
+kalau mau tanya cepat biasanya lewat mana soalnya lagi bandingin dulu,general
+"aku mau nanya, voltes v ini bisa digerakin atau cuma display",product_detail
+"saya mau tanya, robot kayak gundam ada ga disini",product_discovery
+"izin tanya, misalnya box penyok itu bisa komplain ga soalnya lagi bandingin dulu",return_product
+"lagi pengen nambah voltes v, ada stok model lain juga",product_discovery
+"buat display di lemari, produk yg paling cocok apa soalnya takut stoknya habis",recommendation
+mau tanya getter robo ini kondisinya gimana,product_detail
+dancouga di bawah satu juta ada ga,price_promo
+boleh tau kondisi fisik grendizer lebih detail,product_detail
+ada cashback untuk dancouga ga soalnya takut stoknya habis,price_promo
+harga produk super robot fix ato msh fleksibel biar ga salah pilih,price_promo
+"aku mau nanya, aku mau pastiin getter robo msh ada sebelum bayar",stock_availability
+kalau isi box ga lengkap bisa ajukan retur ga soalnya takut stoknya habis,return_product
+barang cacat bisa tukar unit ato ega biar ga salah pilih,return_product
+barang ini asalnya dari mana,shipping_origin
+bisa kirim luar kota untuk super robot kan soalnya lagi bandingin dulu,shipping_transaction
+"saya mau tanya, biaya kirim balik saat retur ditanggung siapa soalnya lagi bandingin dulu",return_product
+biaya kirim balik pas retur ditanggung siapa ya,return_product
+"mau nanya, mau tanya ketersediaan grendizer sekarang",stock_availability
+mazinger z ada ga di toko ini biar ga salah pilih,product_discovery
+"aku lagi cari seri daimos, disini ada kah",product_discovery
+"boleh tanya, biaya kirim balik saat retur ditanggung siapa soalnya takut stoknya habis",return_product
+"aku mau nanya, misalnya box penyok itu bisa komplain ga",return_product
+"aku mau nanya, getter robo ini stoknya masih ada atau udah habis",stock_availability
+yang paling murah untuk seri robot jadul kisaran berapa,price_promo
+"aku lagi bandingin, daimos ini kelebihannya di mana",product_detail
+hari ini toko buka atau tutup biar lebih yakin sebelum order,general
+ukuran super robot ini kira kira berapa,product_detail
+akun toko ini aktif tiap hari ga soalnya lagi bandingin dulu,general
+kalau ternyata minusnya parah bisa balikin barang ga,return_product
+"aku mau nanya, ini toko ada offline juga ato cuma online",shipping_origin
+harga nett voltron berapa,price_promo
+pengiriman voltes v aman ga kalau ke tangerang,shipping_transaction
+"boleh tanya, aku lagi bandingin, gaiking ini kelebihannya di mana",product_detail
+"mau nanya, minta rekomendasi dong yang paling bagus buat display",recommendation
+yang banyak dicari orang biasanya apa,recommendation
+toko ini ada di daerah mana,shipping_origin
+"mau nanya, buat super robot kondisi ready sekarang apa tidak",stock_availability
+lokasi tokonya bisa dishare,shipping_origin
+"izin tanya, nomor cs yang bisa dihubungi ada ga",general
+bahan dari combattler v ini apa ya,product_detail
+yang keliatan premium biasanya yang mana,recommendation
+combattler v ini bisa digerakin ato cuma display,product_detail
+box figure robot aman atau ada penyok biar ga salah pilih,product_detail
+"aku mau nanya, bisa kirim super robot ke bekasi ga",shipping_transaction
+"mau nanya, harga chogokin sekarang berapa",price_promo
+"izin tanya, metode pembayaran di toko ini apa aja soalnya takut stoknya habis",shipping_transaction
+status orderku gimana,transaction_status
+kalau isi box ga lengkap bisa ajukan retur ga biar ga salah pilih,return_product
+"boleh tanya, getter robo itu masih tersedia ato kosong karena rencananya mau checkout hari ini",stock_availability
+pesanan 6864 sudah diproses belum,transaction_status
+"mau yg bagus tapi ga terlalu mahal, saran apa",recommendation
+"aku mau nanya, buat display di lemari, produk yang paling cocok apa karena rencananya mau checkout hari ini",recommendation
+cek transaksi 6591,transaction_status
+komplain barang rusak harus lewat mana karena rencananya mau checkout hari ini,return_product
+ukuran getter robo ini kira kira berapa,product_detail
+robot kayak combattler v ada ga disini,product_discovery
+kalau mau tanya cepat biasanya lewat mana karena aku masih pertimbangin juga,general
+combattler v itu masih tersedia atau kosong,stock_availability
+gudang robot jadul di mana,shipping_origin
+kalian kirim barang dari mana,shipping_origin
+base operasionalnya di mana,shipping_origin
+order saya sudah diproses belum,transaction_status
+"izin tanya, kalau nyari gundam enaknya lihat bagian mana",product_discovery
+barang salah kirim bisa langsung ditukar atau harus refund dulu,return_product
+"boleh tanya, ada cabang toko selain di jakarta ga",general
+"aku mau nanya, gaiking sudah sold out ato belum",stock_availability
+retur untuk barang yang sudah dibuka bisa ga,return_product
+"aku mau nanya, ada cabang toko selain di jakarta ga karena aku masih pertimbangin juga",general
+kalau lihat deskripsi chogokin ini termasuk kondisi apa,product_detail
+"lagi nyari voltron, kira kira tersedia ga",product_discovery
+harga nett chogokin berapa,price_promo
+bisa cod ga kalau tujuan jogja,shipping_transaction
+"izin tanya, kalau gaiking ini lagi sale ga sih",price_promo
+seri getter robo ada di sini,product_discovery
+bahan dari voltron ini apa ya,product_detail
+"izin tanya, ada cabang toko selain di jakarta ga biar ga salah pilih",general
+produk robot jadul masih masuk koleksi toko ga karena aku masih pertimbangin juga,product_discovery
+estimasi sampai ke bogor brp hari,shipping_transaction
+pesanan saya sudah confirmed atau belum,transaction_status
+"boleh tanya, proses return di toko ini gimana",return_product
+order #5321 udah diproses belum,transaction_status
+jam buka toko sampai brp soalnya lagi bandingin dulu,general
+buat hadiah lebih cocok pilih apa,recommendation
+"aku mau nanya, barang chogokin masih ada stoknya ga",stock_availability
+store kalian di mana,shipping_origin
+ada pilihan kurir sendiri atau otomatis biar lebih yakin sebelum order,shipping_transaction
+"izin tanya, yang keliatan premium biasanya yang mana",recommendation
+"aku lagi bandingin, grendizer ini kelebihannya di mana",product_detail
+"aku suka robot jadul, enaknya mulai dari mana biar lebih yakin sebelum order",recommendation
+"boleh tanya, pengiriman daimos aman ga kalau ke depok",shipping_transaction
+ambil barang langsung di mana,shipping_origin
+aku mau pastiin voltes v masih ada sebelum bayar,stock_availability
+retur barang ada batas waktunya ga,return_product
+kalau untuk voltes v masih tersedia hari ini,stock_availability
+showroom atau tokonya ada di mana,shipping_origin
+"saya mau tanya, toko ini bisa dikunjungi langsung kan karena rencananya mau checkout hari ini",shipping_origin
+bisa cod ga kalau tujuan surabaya,shipping_transaction
+box robot jadul aman atau ada penyok,product_detail
+ada produk grendizer buat orang yang buat simpan pribadi ga soalnya lagi bandingin dulu,product_discovery
+nomor wa admin yang aktif ada,general
+daimos tinggal sedikit atau masih banyak,stock_availability
+kalau ternyata minusnya parah bisa balikin barang ga karena aku masih pertimbangin juga,return_product
+"mau nanya, isi box chogokin ini apa aja",product_detail
+"mau nanya, buat koleksi pemula, robot yg cocok apa ya karena mau buat hadiah",recommendation
+kalau mau ambil sekarang masih ada berapa,stock_availability
+"izin tanya, harga voltron sekarang masih sama atau naik",price_promo
+ada cabang toko selain di jakarta ga biar ga salah pilih,general
+pesanan saya berhasil atau tidak,transaction_status
+cek pesanan saya sudah sampai tahap mana,transaction_status
+kalau voltes v ada diskon ga sekarang,price_promo
+robot jadul ini spesialis jual apa sebenarnya,general
+admin online tiap hari atau cuma jam kerja,general
+"saya mau tanya, robot kayak gaiking ada ga disini biar lebih yakin sebelum order",product_discovery
+"aku mau nanya, nomor cs yg bisa dihubungi ada ga",general
+mau tanya kebijakan return di toko ini biar ga salah pilih,return_product
+status pesanan dengan nomor order,transaction_status
+ada super robot yang masih bagus ga,product_discovery
+asal paketnya dari mana,shipping_origin
+"boleh tanya, harga getter robo sekarang brp",price_promo
+berapa harga untuk produk ini sekarang,price_promo
+"saya mau tanya, figure robot yg ini masih ada kah",stock_availability
+"mau nanya, mau lihat pilihan figure robot yg masih ada soalnya lagi bandingin dulu",product_discovery
+"saya mau tanya, lagi bingung pilih, mending ambil yg mana karena aku masih pertimbangin juga",recommendation
+aku mau tau aturan refund sebelum beli soalnya takut stoknya habis,return_product
+"boleh tanya, kalau ada masalah setelah barang diterima harus gimana karena aku masih pertimbangin juga",return_product
+di website ini ada kategori chogokin ga,product_discovery
+"saya mau tanya, kalau weekend toko buka seperti biasa ga",general
+toko offline ada di mana,shipping_origin
+aku mau tau aturan refund sebelum beli karena rencananya mau checkout hari ini,return_product
+rekomendasi barang 1 jutaan dong,recommendation
+rekomendasi robot budget 1 juta,recommendation
+barang yang cocok di harga 1 jutaan apa,recommendation
+saran produk sekitar sejuta dong,recommendation
+yang recommended buat budget 1 juta apa,recommendation
+pilihin barang 1 jutaan yang bagus,recommendation
+minta rekomendasi produk 1 jutaan,recommendation
+kalau budget sejuta enaknya ambil apa,recommendation
+rekomendasi buat koleksi budget 1 jutaan,recommendation
+barang bagus 1 jutaan yang cocok apa,recommendation
+"halo kak, mau tanya-tanya dulu ya",greeting
+"pagi min, bisa bantu?",greeting
+"permisi, saya baru pertama kali ke sini",greeting
+"hai admin, boleh nanya?",greeting
+"siang kak, saya mau cari info",greeting
+min bantuin dong,greeting
+halo robot jadul,greeting
+"sore, saya mau tanya soal barang",greeting
+hello kak,greeting
+misi min,greeting
+"kalau budget mentok 1,5 jt ada apa",price_promo
+yg under sejuta ada apa aja,price_promo
+range harga 700rb sampe 1jt ada apa,price_promo
+ada promo yg lumayan ga,price_promo
+yang paling murah tapi masih oke apa,price_promo
+"harga segini dapet apa ya, sekitar 2 jutaan",price_promo
+lagi ada diskon barang apa aja nih,price_promo
+"kalau budget tipis enaknya yang mana, maksimal 500rb",price_promo
+barang 1 jutaan yg available apa,price_promo
+harga nett kah atau masih bisa kurang sedikit,price_promo
+yang ini ori apa bukan,product_detail
+detail bahan sama ukurannya apa ya,product_detail
+sendinya bisa gerak semua ga,product_detail
+dapet part tambahan apa aja,product_detail
+versi rilis tahun berapa ini,product_detail
+ini diecast full atau campuran,product_detail
+barang ini kondisinya misb kah,product_detail
+isi dalem boxnya apa aja,product_detail
+ukuran real produk ini berapa cm,product_detail
+edisi limited atau reguler,product_detail
+ada robot yg model lawas ga,product_discovery
+cari figure robot buat pajang,product_discovery
+"lagi nyari barang bandai, ada?",product_discovery
+ada mainan robot kisaran sejuta ga,product_discovery
+"mau cari voltron, ada pilihan apa aja",product_discovery
+produk gundam ada ga di toko ini,product_discovery
+ada barang buat koleksi yang temanya robot,product_discovery
+cari chogokin dong,product_discovery
+"lagi nyari barang display, ada yg cocok?",product_discovery
+robot vintage yg ada apa aja,product_discovery
+rekomendasi dong yang cakep buat dipajang,recommendation
+"kalau buat hadiah, bagusnya pilih yg mana",recommendation
+mending ambil yang mana kalau buat koleksi,recommendation
+tolong pilihkan yg worth it di budget 1 jutaan,recommendation
+buat pemula enaknya mulai dari mana,recommendation
+yang paling cocok buat display menurutmu apa,recommendation
+saran robot keren tapi budget masih aman dong,recommendation
+"kalau mau pajangan meja, bagusnya yg mana",recommendation
+rekomendasi yg value-nya bagus apa,recommendation
+"menurut admin, yang terbaik buat koleksi apa",recommendation
+kalau barang sampai rusak prosedurnya gimana,return_product
+misal ada cacat produksi bisa komplain kah,return_product
+refund itu prosesnya berapa lama,return_product
+kalau isi kurang bisa minta retur?,return_product
+salah kirim barang bisa tukar atau refund,return_product
+kebijakan pengembalian barangnya gimana ya,return_product
+kalau box penyok parah bisa klaim ga,return_product
+uang baliknya masuk kapan,return_product
+barang ga sesuai foto bisa retur kah,return_product
+retur/refund di toko ini alurnya gimana,return_product
+barang ini dikirim dr mana,shipping_origin
+asal paketnya kota mana ya,shipping_origin
+kalian base di kota apa,shipping_origin
+kalau mau pickup alamatnya di mana,shipping_origin
+tokonya ada di daerah mana sih,shipping_origin
+warehouse kalian di kota mana,shipping_origin
+order nanti dikirim dari mana,shipping_origin
+offline store ada di mana,shipping_origin
+alamat lengkap tokonya dong,shipping_origin
+pengiriman start dari kota mana,shipping_origin
+bisa cek ongkir ke depok ga,shipping_transaction
+kurir yang bisa dipakai apa aja,shipping_transaction
+bayarnya bisa qris atau transfer?,shipping_transaction
+checkout lewat web langsung ya,shipping_transaction
+estimasi nyampe semarang berapa hari,shipping_transaction
+ada opsi asuransi pengiriman ga,shipping_transaction
+bisa cod untuk barang ini?,shipping_transaction
+cara pesan sampai bayar gimana,shipping_transaction
+kirim pake jne/jnt ada?,shipping_transaction
+bisa pickup di toko atau harus kirim,shipping_transaction
+barang ini masih ready kah,stock_availability
+stok aman atau udah menipis,stock_availability
+masih tersedia sekarang?,stock_availability
+udah habis belum barang ini,stock_availability
+restock lagi kapan ya kak,stock_availability
+sisa unitnya tinggal berapa,stock_availability
+barang ini po atau ready,stock_availability
+ready stock sekarang ga,stock_availability
+masih ada stok gudangnya?,stock_availability
+produk ini sold out kah,stock_availability
+order saya udah sampai tahap mana,transaction_status
+tolong cek status pesanan nomor 7001,transaction_status
+invoice 5120 udah dibayar belum,transaction_status
+pesanan saya statusnya masih pending kah,transaction_status
+order #8123 sudah dikirim belum,transaction_status
+nomor pesanan 6864 progresnya gimana,transaction_status
+status transaksi terbaru saya apa ya,transaction_status
+pesanan saya udah confirmed belum,transaction_status
+mau lihat status order 9002,transaction_status
+halo,greeting
+hallo,greeting
+hai,greeting
+hi,greeting
+hello,greeting
+selamat pagi,greeting
+pagi,greeting
+selamat siang,greeting
+siang,greeting
+selamat sore,greeting
+sore,greeting
+selamat malam,greeting
+malam,greeting
+permisi,greeting
+misi,greeting
+assalamualaikum,greeting
+punten,greeting
+hai robot jadul,greeting
+hello robot jadul,greeting
+halo kak,greeting
+hallo kak,greeting
+hai kak,greeting
+hi kak,greeting
+selamat pagi kak,greeting
+pagi kak,greeting
+selamat siang kak,greeting
+siang kak,greeting
+selamat sore kak,greeting
+sore kak,greeting
+selamat malam kak,greeting
+malam kak,greeting
+permisi kak,greeting
+misi kak,greeting
+assalamualaikum kak,greeting
+punten kak,greeting
+halo robot jadul kak,greeting
+hai robot jadul kak,greeting
+hello robot jadul kak,greeting
+halo min,greeting
+hallo min,greeting
+hai min,greeting
+hi min,greeting
+hello min,greeting
+selamat pagi min,greeting
+pagi min,greeting
+selamat siang min,greeting
+siang min,greeting
+selamat sore min,greeting
+sore min,greeting
+selamat malam min,greeting
+malam min,greeting
+permisi min,greeting
+assalamualaikum min,greeting
+punten min,greeting
+halo robot jadul min,greeting
+hai robot jadul min,greeting
+hello robot jadul min,greeting
+halo admin,greeting
+hallo admin,greeting
+hai admin,greeting
+hi admin,greeting
+hello admin,greeting
+selamat pagi admin,greeting
+pagi admin,greeting
+selamat siang admin,greeting
+siang admin,greeting
+selamat sore admin,greeting
+sore admin,greeting
+selamat malam admin,greeting
+malam admin,greeting
+permisi admin,greeting
+misi admin,greeting
+assalamualaikum admin,greeting
+punten admin,greeting
+halo robot jadul admin,greeting
+hai robot jadul admin,greeting
+hello robot jadul admin,greeting
+halo gan,greeting
+hallo gan,greeting
+hai gan,greeting
+hi gan,greeting
+hello gan,greeting
+selamat pagi gan,greeting
+pagi gan,greeting
+selamat siang gan,greeting
+siang gan,greeting
+selamat sore gan,greeting
+sore gan,greeting
+selamat malam gan,greeting
+malam gan,greeting
+permisi gan,greeting
+misi gan,greeting
+assalamualaikum gan,greeting
+punten gan,greeting
+halo robot jadul gan,greeting
+hai robot jadul gan,greeting
+hello robot jadul gan,greeting
+halo boleh tanya,greeting
+hallo boleh tanya,greeting
+hai boleh tanya,greeting
+hi boleh tanya,greeting
+hello boleh tanya,greeting
+selamat pagi boleh tanya,greeting
+pagi boleh tanya,greeting
+selamat siang boleh tanya,greeting
+siang boleh tanya,greeting
+selamat sore boleh tanya,greeting
+bandingkan voltes v dengan grendizer,compare
+bandingkan mazinger z dengan getter robo,compare
+bandingkan chogokin dengan figure biasa,compare
+bandingkan voltron dengan megazord,compare
+bandingkan daimos dengan combattler v,compare
+bandingkan gaiking dengan dancouga,compare
+bandingkan goldrake dengan mazinger z,compare
+bandingkan gundam dengan super robot,compare
+bandingkan getter robo dengan voltes v,compare
+bandingkan grendizer dengan gaiking,compare
+bandingkan figure robot dengan model kit,compare
+bandingkan produk bandai dengan produk takara,compare
+bandingkan robot vintage dengan robot modern,compare
+bandingkan chogokin gx dengan chogokin deluxe,compare
+bandingkan voltron vintage dengan voltron modern,compare
+tolong bandingkan voltes v dan grendizer,compare
+tolong bandingkan mazinger z dan getter robo,compare
+tolong bandingkan chogokin dan figure biasa,compare
+tolong bandingkan voltron dan megazord,compare
+tolong bandingkan daimos dan combattler v,compare
+tolong bandingkan gaiking dan dancouga,compare
+tolong bandingkan goldrake dan mazinger z,compare
+tolong bandingkan gundam dan super robot,compare
+tolong bandingkan getter robo dan voltes v,compare
+tolong bandingkan grendizer dan gaiking,compare
+tolong bandingkan figure robot dan model kit,compare
+tolong bandingkan produk bandai dan produk takara,compare
+tolong bandingkan robot vintage dan robot modern,compare
+tolong bandingkan chogokin gx dan chogokin deluxe,compare
+tolong bandingkan voltron vintage dan voltron modern,compare
+voltes v vs grendizer,compare
+mazinger z vs getter robo,compare
+chogokin vs figure biasa,compare
+voltron vs megazord,compare
+daimos vs combattler v,compare
+gaiking vs dancouga,compare
+goldrake vs mazinger z,compare
+gundam vs super robot,compare
+getter robo vs voltes v,compare
+grendizer vs gaiking,compare
+figure robot vs model kit,compare
+produk bandai vs produk takara,compare
+robot vintage vs robot modern,compare
+chogokin gx vs chogokin deluxe,compare
+voltron vintage vs voltron modern,compare
+voltes v versus grendizer,compare
+mazinger z versus getter robo,compare
+chogokin versus figure biasa,compare
+voltron versus megazord,compare
+daimos versus combattler v,compare
+gaiking versus dancouga,compare
+goldrake versus mazinger z,compare
+gundam versus super robot,compare
+getter robo versus voltes v,compare
+grendizer versus gaiking,compare
+figure robot versus model kit,compare
+produk bandai versus produk takara,compare
+robot vintage versus robot modern,compare
+chogokin gx versus chogokin deluxe,compare
+voltron vintage versus voltron modern,compare
+apa bedanya voltes v dengan grendizer,compare
+apa bedanya mazinger z dengan getter robo,compare
+apa bedanya chogokin dengan figure biasa,compare
+apa bedanya voltron dengan megazord,compare
+apa bedanya daimos dengan combattler v,compare
+apa bedanya gaiking dengan dancouga,compare
+apa bedanya goldrake dengan mazinger z,compare
+apa bedanya gundam dengan super robot,compare
+apa bedanya getter robo dengan voltes v,compare
+apa bedanya grendizer dengan gaiking,compare
+apa bedanya figure robot dengan model kit,compare
+apa bedanya produk bandai dengan produk takara,compare
+apa bedanya robot vintage dengan robot modern,compare
+apa bedanya chogokin gx dengan chogokin deluxe,compare
+apa bedanya voltron vintage dengan voltron modern,compare
+perbedaan voltes v dan grendizer apa,compare
+perbedaan mazinger z dan getter robo apa,compare
+perbedaan chogokin dan figure biasa apa,compare
+perbedaan voltron dan megazord apa,compare
+perbedaan daimos dan combattler v apa,compare
+perbedaan gaiking dan dancouga apa,compare
+perbedaan goldrake dan mazinger z apa,compare
+perbedaan gundam dan super robot apa,compare
+perbedaan getter robo dan voltes v apa,compare
+perbedaan grendizer dan gaiking apa,compare
+perbedaan figure robot dan model kit apa,compare
+perbedaan produk bandai dan produk takara apa,compare
+perbedaan robot vintage dan robot modern apa,compare
+perbedaan chogokin gx dan chogokin deluxe apa,compare
+perbedaan voltron vintage dan voltron modern apa,compare
+lebih bagus voltes v atau grendizer,compare
+lebih bagus mazinger z atau getter robo,compare
+lebih bagus chogokin atau figure biasa,compare
+lebih bagus voltron atau megazord,compare
+lebih bagus daimos atau combattler v,compare
+lebih bagus gaiking atau dancouga,compare
+lebih bagus goldrake atau mazinger z,compare
+lebih bagus gundam atau super robot,compare
+lebih bagus getter robo atau voltes v,compare
+lebih bagus grendizer atau gaiking,compare
+lebih bagus figure robot atau model kit,compare
+lebih bagus produk bandai atau produk takara,compare
+lebih bagus robot vintage atau robot modern,compare
+lebih bagus chogokin gx atau chogokin deluxe,compare
+lebih bagus voltron vintage atau voltron modern,compare
+bagusan voltes v atau grendizer,compare
+bagusan mazinger z atau getter robo,compare
+bagusan chogokin atau figure biasa,compare
+bagusan voltron atau megazord,compare
+bagusan daimos atau combattler v,compare
+bagusan gaiking atau dancouga,compare
+bagusan goldrake atau mazinger z,compare
+bagusan gundam atau super robot,compare
+bagusan getter robo atau voltes v,compare
+bagusan grendizer atau gaiking,compare
+bagusan figure robot atau model kit,compare
+bagusan produk bandai atau produk takara,compare
+bagusan robot vintage atau robot modern,compare
+bagusan chogokin gx atau chogokin deluxe,compare
+bagusan voltron vintage atau voltron modern,compare
+mending pilih voltes v atau grendizer,compare
+mending pilih mazinger z atau getter robo,compare
+mending pilih chogokin atau figure biasa,compare
+mending pilih voltron atau megazord,compare
+mending pilih daimos atau combattler v,compare
+mending pilih gaiking atau dancouga,compare
+mending pilih goldrake atau mazinger z,compare
+mending pilih gundam atau super robot,compare
+mending pilih getter robo atau voltes v,compare
+mending pilih grendizer atau gaiking,compare
+mending pilih figure robot atau model kit,compare
+mending pilih produk bandai atau produk takara,compare
+mending pilih robot vintage atau robot modern,compare
+mending pilih chogokin gx atau chogokin deluxe,compare
+mending pilih voltron vintage atau voltron modern,compare
+mana yang lebih worth it antara voltes v dan grendizer,compare
+mana yang lebih worth it antara mazinger z dan getter robo,compare
+mana yang lebih worth it antara chogokin dan figure biasa,compare
+mana yang lebih worth it antara voltron dan megazord,compare
+mana yang lebih worth it antara daimos dan combattler v,compare
+mana yang lebih worth it antara gaiking dan dancouga,compare
+mana yang lebih worth it antara goldrake dan mazinger z,compare
+mana yang lebih worth it antara gundam dan super robot,compare
+mana yang lebih worth it antara getter robo dan voltes v,compare
+mana yang lebih worth it antara grendizer dan gaiking,compare
+mana yang lebih worth it antara figure robot dan model kit,compare
+mana yang lebih worth it antara produk bandai dan produk takara,compare
+mana yang lebih worth it antara robot vintage dan robot modern,compare
+mana yang lebih worth it antara chogokin gx dan chogokin deluxe,compare
+mana yang lebih worth it antara voltron vintage dan voltron modern,compare
+cek resi JNE1234567890 kurir jne,shipment_tracking
+cek resi JP1234567890 kurir j&t,shipment_tracking
+cek resi SC1234567890 kurir sicepat,shipment_tracking
+cek resi AJ1234567890 kurir anteraja,shipment_tracking
+cek resi POS123456789 kurir pos,shipment_tracking
+cek resi TK1234567890 kurir tiki,shipment_tracking
+cek resi NV1234567890 kurir ninja,shipment_tracking
+cek resi LP1234567890 kurir lion parcel,shipment_tracking
+cek resi SAP123456789 kurir sap express,shipment_tracking
+cek resi IDE123456789 kurir id express,shipment_tracking
+tolong lacak resi jne JNE1234567890,shipment_tracking
+tolong lacak resi j&t JP1234567890,shipment_tracking
+tolong lacak resi sicepat SC1234567890,shipment_tracking
+tolong lacak resi anteraja AJ1234567890,shipment_tracking
+tolong lacak resi pos POS123456789,shipment_tracking
+tolong lacak resi tiki TK1234567890,shipment_tracking
+tolong lacak resi ninja NV1234567890,shipment_tracking
+tolong lacak resi lion parcel LP1234567890,shipment_tracking
+tolong lacak resi sap express SAP123456789,shipment_tracking
+tolong lacak resi id express IDE123456789,shipment_tracking
+paket dengan resi JNE1234567890 sudah sampai mana,shipment_tracking
+paket dengan resi JP1234567890 sudah sampai mana,shipment_tracking
+paket dengan resi SC1234567890 sudah sampai mana,shipment_tracking
+paket dengan resi AJ1234567890 sudah sampai mana,shipment_tracking
+paket dengan resi POS123456789 sudah sampai mana,shipment_tracking
+paket dengan resi TK1234567890 sudah sampai mana,shipment_tracking
+paket dengan resi NV1234567890 sudah sampai mana,shipment_tracking
+paket dengan resi LP1234567890 sudah sampai mana,shipment_tracking
+paket dengan resi SAP123456789 sudah sampai mana,shipment_tracking
+paket dengan resi IDE123456789 sudah sampai mana,shipment_tracking
+tracking paket jne nomor JNE1234567890,shipment_tracking
+tracking paket j&t nomor JP1234567890,shipment_tracking
+tracking paket sicepat nomor SC1234567890,shipment_tracking
+tracking paket anteraja nomor AJ1234567890,shipment_tracking
+tracking paket pos nomor POS123456789,shipment_tracking
+tracking paket tiki nomor TK1234567890,shipment_tracking
+tracking paket ninja nomor NV1234567890,shipment_tracking
+tracking paket lion parcel nomor LP1234567890,shipment_tracking
+tracking paket sap express nomor SAP123456789,shipment_tracking
+tracking paket id express nomor IDE123456789,shipment_tracking
+posisi paket saya dengan resi JNE1234567890 di mana,shipment_tracking
+posisi paket saya dengan resi JP1234567890 di mana,shipment_tracking
+posisi paket saya dengan resi SC1234567890 di mana,shipment_tracking
+posisi paket saya dengan resi AJ1234567890 di mana,shipment_tracking
+posisi paket saya dengan resi POS123456789 di mana,shipment_tracking
+posisi paket saya dengan resi TK1234567890 di mana,shipment_tracking
+posisi paket saya dengan resi NV1234567890 di mana,shipment_tracking
+posisi paket saya dengan resi LP1234567890 di mana,shipment_tracking
+posisi paket saya dengan resi SAP123456789 di mana,shipment_tracking
+posisi paket saya dengan resi IDE123456789 di mana,shipment_tracking
+bisa cek perjalanan paket JNE1234567890,shipment_tracking
+bisa cek perjalanan paket JP1234567890,shipment_tracking
+bisa cek perjalanan paket SC1234567890,shipment_tracking
+bisa cek perjalanan paket AJ1234567890,shipment_tracking
+bisa cek perjalanan paket POS123456789,shipment_tracking
+bisa cek perjalanan paket TK1234567890,shipment_tracking
+bisa cek perjalanan paket NV1234567890,shipment_tracking
+bisa cek perjalanan paket LP1234567890,shipment_tracking
+bisa cek perjalanan paket SAP123456789,shipment_tracking
+bisa cek perjalanan paket IDE123456789,shipment_tracking
+resi JNE1234567890 masih dalam perjalanan atau tidak,shipment_tracking
+resi JP1234567890 masih dalam perjalanan atau tidak,shipment_tracking
+resi SC1234567890 masih dalam perjalanan atau tidak,shipment_tracking
+resi AJ1234567890 masih dalam perjalanan atau tidak,shipment_tracking
+resi POS123456789 masih dalam perjalanan atau tidak,shipment_tracking
+resi TK1234567890 masih dalam perjalanan atau tidak,shipment_tracking
+resi NV1234567890 masih dalam perjalanan atau tidak,shipment_tracking
+resi LP1234567890 masih dalam perjalanan atau tidak,shipment_tracking
+resi SAP123456789 masih dalam perjalanan atau tidak,shipment_tracking
+resi IDE123456789 masih dalam perjalanan atau tidak,shipment_tracking
+paket jne JNE1234567890 kapan sampai,shipment_tracking
+paket j&t JP1234567890 kapan sampai,shipment_tracking
+paket sicepat SC1234567890 kapan sampai,shipment_tracking
+paket anteraja AJ1234567890 kapan sampai,shipment_tracking
+paket pos POS123456789 kapan sampai,shipment_tracking
+paket tiki TK1234567890 kapan sampai,shipment_tracking
+paket ninja NV1234567890 kapan sampai,shipment_tracking
+paket lion parcel LP1234567890 kapan sampai,shipment_tracking
+paket sap express SAP123456789 kapan sampai,shipment_tracking
+paket id express IDE123456789 kapan sampai,shipment_tracking
+status pengiriman resi JNE1234567890,shipment_tracking
+status pengiriman resi JP1234567890,shipment_tracking
+status pengiriman resi SC1234567890,shipment_tracking
+status pengiriman resi AJ1234567890,shipment_tracking
+status pengiriman resi POS123456789,shipment_tracking
+status pengiriman resi TK1234567890,shipment_tracking
+status pengiriman resi NV1234567890,shipment_tracking
+status pengiriman resi LP1234567890,shipment_tracking
+status pengiriman resi SAP123456789,shipment_tracking
+status pengiriman resi IDE123456789,shipment_tracking
+lacak paket saya pakai jne nomor JNE1234567890,shipment_tracking
+lacak paket saya pakai j&t nomor JP1234567890,shipment_tracking
+lacak paket saya pakai sicepat nomor SC1234567890,shipment_tracking
+lacak paket saya pakai anteraja nomor AJ1234567890,shipment_tracking
+lacak paket saya pakai pos nomor POS123456789,shipment_tracking
+lacak paket saya pakai tiki nomor TK1234567890,shipment_tracking
+lacak paket saya pakai ninja nomor NV1234567890,shipment_tracking
+lacak paket saya pakai lion parcel nomor LP1234567890,shipment_tracking
+lacak paket saya pakai sap express nomor SAP123456789,shipment_tracking
+lacak paket saya pakai id express nomor IDE123456789,shipment_tracking
+kenapa resi JNE1234567890 belum bergerak,shipment_tracking
+kenapa resi JP1234567890 belum bergerak,shipment_tracking
+kenapa resi SC1234567890 belum bergerak,shipment_tracking
+kenapa resi AJ1234567890 belum bergerak,shipment_tracking
+kenapa resi POS123456789 belum bergerak,shipment_tracking
+kenapa resi TK1234567890 belum bergerak,shipment_tracking
+kenapa resi NV1234567890 belum bergerak,shipment_tracking
+kenapa resi LP1234567890 belum bergerak,shipment_tracking
+kenapa resi SAP123456789 belum bergerak,shipment_tracking
+kenapa resi IDE123456789 belum bergerak,shipment_tracking
+paket dengan nomor JNE1234567890 sudah diterima belum,shipment_tracking
+paket dengan nomor JP1234567890 sudah diterima belum,shipment_tracking
+paket dengan nomor SC1234567890 sudah diterima belum,shipment_tracking
+paket dengan nomor AJ1234567890 sudah diterima belum,shipment_tracking
+paket dengan nomor POS123456789 sudah diterima belum,shipment_tracking
+paket dengan nomor TK1234567890 sudah diterima belum,shipment_tracking
+paket dengan nomor NV1234567890 sudah diterima belum,shipment_tracking
+paket dengan nomor LP1234567890 sudah diterima belum,shipment_tracking
+paket dengan nomor SAP123456789 sudah diterima belum,shipment_tracking
+paket dengan nomor IDE123456789 sudah diterima belum,shipment_tracking
+cek update terakhir paket jne JNE1234567890,shipment_tracking
+cek update terakhir paket j&t JP1234567890,shipment_tracking
+cek update terakhir paket sicepat SC1234567890,shipment_tracking
+cek update terakhir paket anteraja AJ1234567890,shipment_tracking
+cek update terakhir paket pos POS123456789,shipment_tracking
+cek update terakhir paket tiki TK1234567890,shipment_tracking
+cek update terakhir paket ninja NV1234567890,shipment_tracking
+cek update terakhir paket lion parcel LP1234567890,shipment_tracking
+cek update terakhir paket sap express SAP123456789,shipment_tracking
+cek update terakhir paket id express IDE123456789,shipment_tracking
+barang saya di kurir jne sudah sampai mana,shipment_tracking
+barang saya di kurir j&t sudah sampai mana,shipment_tracking
+barang saya di kurir sicepat sudah sampai mana,shipment_tracking
+barang saya di kurir anteraja sudah sampai mana,shipment_tracking
+barang saya di kurir pos sudah sampai mana,shipment_tracking
+barang saya di kurir tiki sudah sampai mana,shipment_tracking
+barang saya di kurir ninja sudah sampai mana,shipment_tracking
+barang saya di kurir lion parcel sudah sampai mana,shipment_tracking
+barang saya di kurir sap express sudah sampai mana,shipment_tracking
+barang saya di kurir id express sudah sampai mana,shipment_tracking
+tolong cek lokasi paket untuk resi JNE1234567890,shipment_tracking
+tolong cek lokasi paket untuk resi JP1234567890,shipment_tracking
+tolong cek lokasi paket untuk resi SC1234567890,shipment_tracking
+tolong cek lokasi paket untuk resi AJ1234567890,shipment_tracking
+tolong cek lokasi paket untuk resi POS123456789,shipment_tracking
+tolong cek lokasi paket untuk resi TK1234567890,shipment_tracking
+tolong cek lokasi paket untuk resi NV1234567890,shipment_tracking
+tolong cek lokasi paket untuk resi LP1234567890,shipment_tracking
+tolong cek lokasi paket untuk resi SAP123456789,shipment_tracking
+tolong cek lokasi paket untuk resi IDE123456789,shipment_tracking
+jam berapa sekarang,general
+sekarang hari apa,general
+tanggal berapa hari ini,general
+bagaimana cuaca hari ini,general
+besok akan hujan atau tidak,general
+berapa suhu udara sekarang,general
+siapa presiden indonesia,general
+siapa gubernur jakarta,general
+apa ibu kota jepang,general
+ceritakan sejarah indonesia,general
+siapa penemu telepon,general
+planet terbesar apa,general
+berapa hasil dua tambah dua,general
+hitung akar kuadrat seratus,general
+tolong kerjakan soal matematika,general
+buatkan kode python,general
+cara membuat website,general
+jelaskan javascript,general
+buatkan query sql,general
+cara memperbaiki komputer,general
+resep nasi goreng,general
+cara membuat kue,general
+menu makan malam apa,general
+terjemahkan kalimat ini,general
+buatkan puisi,general
+ceritakan dongeng,general
+berita terbaru hari ini,general
+berapa skor pertandingan tadi,general
+jadwal pertandingan bola kapan,general
+apa ramalan zodiak hari ini,general
+film terbaru yang bagus apa,general
+lagu yang sedang populer apa,general
+cara belajar bahasa inggris,general
+jelaskan fotosintesis,general
+kenapa langit berwarna biru,general
+tolong jawab jam berapa sekarang,general
+tolong jawab sekarang hari apa,general
+tolong jawab tanggal berapa hari ini,general
+tolong jawab bagaimana cuaca hari ini,general
+tolong jawab besok akan hujan atau tidak,general
+tolong jawab berapa suhu udara sekarang,general
+tolong jawab siapa presiden indonesia,general
+tolong jawab siapa gubernur jakarta,general
+tolong jawab apa ibu kota jepang,general
+tolong jawab ceritakan sejarah indonesia,general
+tolong jawab siapa penemu telepon,general
+tolong jawab planet terbesar apa,general
+tolong jawab berapa hasil dua tambah dua,general
+tolong jawab hitung akar kuadrat seratus,general
+tolong jawab tolong kerjakan soal matematika,general
+tolong jawab buatkan kode python,general
+tolong jawab cara membuat website,general
+tolong jawab jelaskan javascript,general
+tolong jawab buatkan query sql,general
+tolong jawab cara memperbaiki komputer,general
+tolong jawab resep nasi goreng,general
+tolong jawab cara membuat kue,general
+tolong jawab menu makan malam apa,general
+tolong jawab terjemahkan kalimat ini,general
+tolong jawab buatkan puisi,general
+tolong jawab ceritakan dongeng,general
+tolong jawab berita terbaru hari ini,general
+tolong jawab berapa skor pertandingan tadi,general
+tolong jawab jadwal pertandingan bola kapan,general
+tolong jawab apa ramalan zodiak hari ini,general
+tolong jawab film terbaru yang bagus apa,general
+tolong jawab lagu yang sedang populer apa,general
+tolong jawab cara belajar bahasa inggris,general
+tolong jawab jelaskan fotosintesis,general
+tolong jawab kenapa langit berwarna biru,general
+permisi ada admin yang bisa bantu,greeting
+misi boleh dibantu sebentar,greeting
+misi ada admin yang sedang online,greeting
+permisi ada yang bisa membantu saya,greeting
+misi kak ada orang,greeting
+halo min ada yang bisa bantu,greeting
+halo ada orang di sini,greeting
+hai kak boleh ngobrol sebentar,greeting
+pagi min saya baru datang,greeting
+sore admin boleh minta bantuan,greeting
+malam kak masih online,greeting
+punten min saya mau bertanya dulu,greeting
+kalau uang saya satu juta dapat pilihan apa saja,price_promo
+kalau dana sekitar satu jutaan pilihannya apa,price_promo
+dengan dana terbatas opsi produknya apa saja,price_promo
+uang yang tersedia cuma sejuta bisa dapat apa,price_promo
+opsi barang untuk dana dua juta apa saja,price_promo
+budget sekitar dua juta ada barang apa,price_promo
+dana 500 ribu bisa dapat produk apa,price_promo
+maksimal anggaran saya 750rb ada pilihan apa,price_promo
+produk under 1 jt tersedia apa saja,price_promo
+dengan budget 3 juta bisa beli apa,price_promo
+kisaran satu jutaan ada robot apa,price_promo
+barang di bawah 2 juta apa saja,price_promo
+kalau modal 900 ribu dapat apa,price_promo
+daftar produk yang sedang diskon apa saja,price_promo
+promo chogokin bulan ini berapa,price_promo
+potongan harga yang aktif sekarang apa,price_promo
+sale robot jadul hari ini apa saja,price_promo
+cashback pembelian sekarang ada berapa,price_promo
+harga setelah diskon menjadi berapa,price_promo
+material robot ini full die cast atau plastik,product_detail
+bahan produknya seluruhnya diecast tidak,product_detail
+figure ini menggunakan banyak part die cast,product_detail
+komposisi bahannya metal atau pvc,product_detail
+bagian badan robot terbuat dari besi tidak,product_detail
+berapa persen material metal pada produk ini,product_detail
+produknya full metal atau ada bagian plastik,product_detail
+detail bahan figure ini apa saja,product_detail
+body robot memakai diecast tidak,product_detail
+apakah materialnya dominan logam,product_detail
+pengiriman barang ini memakai asuransi tidak,shipping_transaction
+apakah barang ini dapat diasuransikan,shipping_transaction
+bisa pakai asuransi untuk barang ini,shipping_transaction
+unit ini bisa ditambah asuransi pengiriman tidak,shipping_transaction
+barang yang dibeli mendapat opsi asuransi tidak,shipping_transaction
+produk mahal bisa diberi proteksi kirim,shipping_transaction
+asuransi paket tersedia saat checkout tidak,shipping_transaction
+barang koleksi bisa diasuransikan selama pengiriman,shipping_transaction
+cara menambah proteksi untuk paket,shipping_transaction
+biaya asuransi pengiriman berapa,shipping_transaction
+paket dikirim dengan perlindungan kerusakan tidak,shipping_transaction
+opsi proteksi barang muncul saat pembayaran tidak,shipping_transaction
+bagaimana cara membeli barang ini,shipping_transaction
+langkah untuk beli produk ini seperti apa,shipping_transaction
+cara melakukan pembelian di toko ini,shipping_transaction
+kalau mau membeli produk harus mulai dari mana,shipping_transaction
+saya ingin beli barang ini caranya bagaimana,shipping_transaction
+panduan pesan produk sampai pembayaran,shipping_transaction
+bagaimana alur order barang di website,shipping_transaction
+cara memesan salah satu produk yang tampil,shipping_transaction
+kalau tertarik produk ini belinya lewat mana,shipping_transaction
+mau order robot ini langkahnya apa saja,shipping_transaction
+proses pembelian sampai barang dikirim bagaimana,shipping_transaction
+tolong jelaskan cara pesan produk dari awal,shipping_transaction
+sekarang menunjukkan pukul berapa,general
+pukul berapa saat ini,general
+boleh tahu sekarang jam berapa,general
+waktu saat ini menunjukkan jam berapa,general
+boleh kasih tahu waktu saat ini,general
+hari dan tanggal sekarang apa,general
+bantu saya membuat aplikasi sederhana,general
+bisa bantu buatkan sebuah program,general
+tolong bantu bikin program sederhana,general
+saya butuh bantuan membuat program,general
+tolong tuliskan program komputer,general
+ajarkan saya pemrograman dasar,general
+siapa pemimpin negara sekarang,general
+besok cuacanya seperti apa,general
+bantu jawab pertanyaan pelajaran,general
+saya mau tanya hal di luar toko,general
+dari dua barang tadi yang unggul yang mana,compare
+produk nomor satu dibanding nomor dua bagus mana,compare
+kalau dua pilihan sebelumnya dibandingkan siapa menang,compare
+antara barang pertama dan kedua lebih murah mana,compare
+figure kondisi loose lawan misb pilih mana,compare
+versi tanpa box vs lengkap box lebih baik mana,compare
+dari dua robot sebelumnya yang lebih cocok untuk koleksi,compare
+pilihan pertama dan pilihan kedua beda kualitas tidak,compare
+coba komparasikan dua produk yang baru ditampilkan,compare
+mana pemenang dari dua item tadi,compare
+paket jne saya saat ini berada di kota apa,shipment_tracking
+kiriman jne sekarang sudah ada di kota mana,shipment_tracking
+posisi paket dari jne berada di mana,shipment_tracking
+paket kurir saya sudah sampai daerah mana,shipment_tracking
+kiriman jnt sudah bergerak ke mana,shipment_tracking
+barang yang dibawa sicepat posisinya di mana,shipment_tracking
+nomor resi ini dapat dilacak atau tidak,shipment_tracking
+apakah resi dari toko sudah bisa dilacak,shipment_tracking
+nomor tracking ini bisa dicek di sini tidak,shipment_tracking
+resi pengiriman belum dapat saya lacak,shipment_tracking
+cara melihat perjalanan paket dari resi,shipment_tracking
+resi yang diberikan toko belum muncul pergerakan,shipment_tracking
+paket sudah masuk kurir tetapi lokasinya belum jelas,shipment_tracking
+cek lokasi terbaru kiriman anteraja saya,shipment_tracking
+barang sedang transit di kota mana,shipment_tracking
+tolong lihat update perjalanan paket terakhir,shipment_tracking

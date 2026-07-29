@@ -1,0 +1,43 @@
+{
+  "artifact_version": 1,
+  "created_at_utc": "2026-07-29T12:36:11.976112+00:00",
+  "model_filename": "intent_model_tfidf_logreg_training_13.joblib",
+  "selected_pipeline": "word_char_tfidf",
+  "labels": [
+    "greeting",
+    "product_discovery",
+    "recommendation",
+    "product_detail",
+    "price_promo",
+    "stock_availability",
+    "shipping_transaction",
+    "shipping_origin",
+    "return_product",
+    "compare",
+    "transaction_status",
+    "shipment_tracking",
+    "general"
+  ],
+  "recommended_confidence_threshold": 0.6,
+  "training_rows": 2322,
+  "hard_test_rows": 104,
+  "training_dataset_sha256": "aac0ce668c6298b10fce5b69e769a2d02f0220574cb67823e900666439d7b2c7",
+  "hard_test_dataset_sha256": "e1f69a13d785842857dc5406abc97f89d298060875f7bac86ecb0b7698923b27",
+  "model_sha256": "eb9c0f02d6e40183f6a9767ded1b732ba8b65ecf691685f9e1c1289f10330b03",
+  "metrics": {
+    "hard_accuracy": 1.0,
+    "hard_macro_f1": 1.0,
+    "cv_accuracy_mean": 0.9780311457174639,
+    "cv_accuracy_std": 0.0063169108375744545,
+    "cv_macro_f1_mean": 0.9787653795579112,
+    "cv_macro_f1_std": 0.0062109017783799035
+  },
+  "hard_test_error_count": 0,
+  "versions": {
+    "python": "3.12.9",
+    "scikit_learn": "1.8.0",
+    "pandas": "3.0.1",
+    "joblib": "1.5.3",
+    "numpy": "2.4.2"
+  }
+}

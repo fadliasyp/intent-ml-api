@@ -1,0 +1,64 @@
+{
+  "contract_version": 1,
+  "labels": [
+    "greeting",
+    "product_discovery",
+    "recommendation",
+    "product_detail",
+    "price_promo",
+    "stock_availability",
+    "shipping_transaction",
+    "shipping_origin",
+    "return_product",
+    "compare",
+    "transaction_status",
+    "shipment_tracking",
+    "general"
+  ],
+  "training_rows": 2322,
+  "training_counts": {
+    "greeting": 129,
+    "product_discovery": 180,
+    "recommendation": 190,
+    "product_detail": 190,
+    "price_promo": 199,
+    "stock_availability": 200,
+    "shipping_transaction": 204,
+    "shipping_origin": 152,
+    "return_product": 180,
+    "compare": 160,
+    "transaction_status": 148,
+    "shipment_tracking": 166,
+    "general": 224
+  },
+  "hard_test_rows": 104,
+  "hard_test_counts": {
+    "greeting": 8,
+    "product_discovery": 8,
+    "recommendation": 8,
+    "product_detail": 8,
+    "price_promo": 8,
+    "stock_availability": 8,
+    "shipping_transaction": 8,
+    "shipping_origin": 8,
+    "return_product": 8,
+    "compare": 8,
+    "transaction_status": 8,
+    "shipment_tracking": 8,
+    "general": 8
+  },
+  "train_hard_exact_overlap": 0,
+  "source_rows_added": {
+    "base": 1639,
+    "noise_addon": 99,
+    "generated_greeting": 107,
+    "generated_compare": 150,
+    "generated_tracking": 150,
+    "generated_general": 70,
+    "contrastive": 107
+  },
+  "outputs": {
+    "training": "C:\\kumpulan-coding-fadli\\intent-ml-api\\Data yg dilatih dan di test\\dataset_intent_13_ready_training.csv",
+    "hard_test": "C:\\kumpulan-coding-fadli\\intent-ml-api\\Data yg dilatih dan di test\\dataset_intent_13_hard_test.csv"
+  }
+}

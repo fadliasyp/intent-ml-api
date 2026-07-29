@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "labels": [
+    {
+      "name": "greeting",
+      "description": "Sapaan murni tanpa permintaan produk atau transaksi."
+    },
+    {
+      "name": "product_discovery",
+      "description": "Mencari produk, seri, kategori, atau pilihan produk."
+    },
+    {
+      "name": "recommendation",
+      "description": "Meminta saran produk berdasarkan kebutuhan atau preferensi."
+    },
+    {
+      "name": "product_detail",
+      "description": "Menanyakan spesifikasi, kondisi, material, ukuran, atau isi produk."
+    },
+    {
+      "name": "price_promo",
+      "description": "Menanyakan harga, rentang budget, diskon, atau promo."
+    },
+    {
+      "name": "stock_availability",
+      "description": "Menanyakan stok, ketersediaan, preorder, atau restock."
+    },
+    {
+      "name": "shipping_transaction",
+      "description": "Ongkir, pembayaran, checkout, cara membeli, COD, dan estimasi kirim."
+    },
+    {
+      "name": "shipping_origin",
+      "description": "Lokasi toko, asal pengiriman, gudang, dan pengambilan langsung."
+    },
+    {
+      "name": "return_product",
+      "description": "Retur, refund, barang rusak, salah kirim, atau komplain setelah diterima."
+    },
+    {
+      "name": "compare",
+      "description": "Membandingkan dua produk yang disebutkan secara jelas."
+    },
+    {
+      "name": "transaction_status",
+      "description": "Status order, pembayaran, pemrosesan, atau nomor pesanan."
+    },
+    {
+      "name": "shipment_tracking",
+      "description": "Pelacakan paket menggunakan resi, kurir, atau perjalanan paket."
+    },
+    {
+      "name": "general",
+      "description": "Informasi umum toko atau pertanyaan di luar kemampuan ecommerce."
+    }
+  ],
+  "labeling_rules": [
+    "Sapaan yang disertai permintaan harus memakai intent permintaannya, bukan greeting.",
+    "Status order sebelum dikirim adalah transaction_status; posisi paket atau resi adalah shipment_tracking.",
+    "Permintaan memilih satu produk adalah recommendation; perbandingan harus menyebut dua produk.",
+    "Pertanyaan budget atau daftar produk pada batas harga adalah price_promo.",
+    "Pencarian gambar tidak dilatih di model teks karena memakai endpoint khusus."
+  ]
+}

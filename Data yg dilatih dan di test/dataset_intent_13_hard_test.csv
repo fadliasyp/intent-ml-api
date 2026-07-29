@@ -1,0 +1,105 @@
+text,label
+"halo min, aku baru mampir nih",greeting
+"permisi kak, boleh tanya sedikit?",greeting
+"hai admin, bantu kasih info ya",greeting
+"pagi, saya mau nanya-nanya dulu",greeting
+"misi, ada yang bisa dibantu?",greeting
+hello kak admin,greeting
+"sore min, saya baru pertama kali di sini",greeting
+izin tanya dulu ya kak,greeting
+"kalau dana cuma sekitar sejuta, opsinya apa aja",price_promo
+under 2 jt ada barang apa yang oke,price_promo
+lagi ada sale item apa nih,price_promo
+barang kisaran 700 ribuan apa aja,price_promo
+diskon untuk produk chogokin bulan ini berapa,price_promo
+"maks budget saya 500rb, dapet apa",price_promo
+selisih harga mahal dan murahnya karena apa,price_promo
+harga pas atau masih bisa nego tipis,price_promo
+ini ori bandai kah,product_detail
+ukuran exact-nya berapa cm ya,product_detail
+apakah full diecast,product_detail
+isi box lengkapnya apa,product_detail
+bagian tangan-kaki bisa digerakin?,product_detail
+rilis tahun berapa yang ini,product_detail
+kondisi item-nya misb atau loose,product_detail
+edisi ini limited bukan,product_detail
+ada robot vintage yg ready buat dilihat,product_discovery
+"saya cari voltron, ada pilihan apa",product_discovery
+"lagi nyari chogokin, tersedia apa aja",product_discovery
+produk bandai di toko ini ada apa saja,product_discovery
+"cari barang display tema robot, ada?",product_discovery
+mainan robot kisaran sejuta ada tidak,product_discovery
+ada gundam atau sejenisnya?,product_discovery
+lagi cari figure robot lawas,product_discovery
+"buat hadiah, enaknya pilih yang mana",recommendation
+yang paling cocok buat pajangan meja apa,recommendation
+tolong rekomendasiin yg worth it dong,recommendation
+"kalau buat kolektor baru, bagusnya mulai dari mana",recommendation
+mending ambil yang mana kalau budget 1 jutaan,recommendation
+saran robot keren buat display,recommendation
+yang value for money buat koleksi apa,recommendation
+"menurut admin, yg paling cakep buat pajangan apa",recommendation
+kalau barang sampai lecet bisa komplain?,return_product
+proses refund biasanya berapa hari,return_product
+isi box kurang bisa retur gak,return_product
+barang gak sesuai foto bisa pengembalian?,return_product
+salah kirim item bisa tukar barang?,return_product
+box penyok parah bisa klaim?,return_product
+aturan refund di toko ini gimana,return_product
+uang kembali untuk retur kapan masuk,return_product
+barang dikirim dari kota mana,shipping_origin
+alamat toko offline kalian di mana,shipping_origin
+kalau mau pickup langsung ke mana,shipping_origin
+asal kirim paketnya dari mana ya,shipping_origin
+warehouse kalian lokasinya di mana,shipping_origin
+kalian base di kota mana sih,shipping_origin
+paket nanti berangkat dari mana,shipping_origin
+bisa info alamat lengkap toko,shipping_origin
+ongkir ke bekasi kira-kira berapa,shipping_transaction
+bayarnya bisa qris gak,shipping_transaction
+kurir yang tersedia apa aja,shipping_transaction
+cara membeli produk ini gimana,shipping_transaction
+estimasi nyampe surabaya berapa lama,shipping_transaction
+barang ini bisa diasuransikan?,shipping_transaction
+bisa cod atau transfer aja,shipping_transaction
+kirim pakai jne/jnt ada kah,shipping_transaction
+masih ready stock kan,stock_availability
+sisa unitnya ada berapa,stock_availability
+barang ini sold out belum,stock_availability
+ready atau po ya item ini,stock_availability
+restock berikutnya kapan,stock_availability
+stok gudangnya masih aman?,stock_availability
+produk ini masih tersedia sekarang,stock_availability
+udah habis atau masih ada,stock_availability
+status order 7001 gimana,transaction_status
+tolong cek pesanan saya udah diproses belum,transaction_status
+invoice 5120 status pembayarannya apa,transaction_status
+status proses order 86420 saat ini bagaimana,transaction_status
+pesanan saya lagi di tahap mana,transaction_status
+cek orderan terbaru saya dong,transaction_status
+boleh cek perkembangan pesanan nomor 97531,transaction_status
+status transaksi saya masih pending kah,transaction_status
+sekarang pukul berapa ya,general
+tolong kasih prakiraan cuaca besok,general
+siapa kepala negara indonesia saat ini,general
+bantu buat program sederhana dong,general
+tokonya buka setiap hari atau tidak,general
+admin robot jadul bisa dihubungi lewat apa,general
+robot jadul itu toko khusus apa,general
+ada cabang toko di luar jakarta tidak,general
+gx 47 sama gx 48 beda apa,compare
+kalau voltes dan daimos enakan pilih mana,compare
+tolong komparasi grendizer lawan mazinger,compare
+antara versi bandai dan takara lebih oke mana,compare
+figure loose vs misb lebih worth it yang mana,compare
+dari dua robot tadi mana yang lebih murah,compare
+produk pertama dibanding kedua unggul mana,compare
+mau tahu perbedaan getter one dan getter two,compare
+resi saya JX9988776655 sudah bergerak belum,shipment_tracking
+paket jne saya sekarang ada di kota mana,shipment_tracking
+tolong tracking kiriman dengan nomor SC88776655,shipment_tracking
+barang sudah diserahkan ke kurir tapi belum sampai,shipment_tracking
+nomor resinya bisa dilacak dari sini tidak,shipment_tracking
+update terakhir perjalanan paket saya apa,shipment_tracking
+paket jnt saya kenapa tidak bergerak,shipment_tracking
+cek posisi kiriman POS77665544,shipment_tracking
