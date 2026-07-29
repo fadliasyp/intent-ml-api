@@ -7,8 +7,6 @@ __pycache__/
 dataset*.csv
 !Data yg dilatih dan di test/dataset_intent_13_ready_training.csv
 !Data yg dilatih dan di test/dataset_intent_13_hard_test.csv
-train_model.py
-note.txt
 .ipynb_checkpoints/
 .vercel
 .env*.local

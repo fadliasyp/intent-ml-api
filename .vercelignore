@@ -5,7 +5,5 @@ __pycache__/
 *.pyo
 *.pyd
 dataset*.csv
-train_model.py
-note.txt
 .ipynb_checkpoints/
 .git/

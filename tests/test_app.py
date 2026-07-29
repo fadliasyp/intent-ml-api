@@ -1,5 +1,4 @@
 import unittest
-from pathlib import Path
 
 import app
 
@@ -57,20 +56,14 @@ class IntentApiTest(unittest.TestCase):
 
         self.assertEqual(context.exception.status_code, 400)
 
-    def test_legacy_ten_intent_model_is_rejected(self):
-        legacy_path = Path(app.BASE_DIR) / (
-            "intent_model_tfidf_logreg_training_3.joblib"
-        )
-        legacy_metadata = {
-            "model_sha256": app.sha256_file(legacy_path),
-            "labels": sorted(app.EXPECTED_INTENTS),
-            "versions": {
-                "scikit_learn": app.sklearn.__version__,
-            }
+    def test_incomplete_metadata_intent_contract_is_rejected(self):
+        invalid_metadata = {
+            **app.metadata,
+            "labels": ["general"],
         }
 
-        with self.assertRaisesRegex(RuntimeError, "Kontrak intent model"):
-            app.load_and_validate_model(legacy_path, legacy_metadata)
+        with self.assertRaisesRegex(RuntimeError, "metadata"):
+            app.load_and_validate_model(app.MODEL_PATH, invalid_metadata)
 
 
 if __name__ == "__main__":

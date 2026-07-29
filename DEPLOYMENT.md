@@ -9,7 +9,7 @@ Pastikan file berikut ikut masuk ke deployment:
 - `intent_model_tfidf_logreg_training_13.joblib`
 - `intent_model_tfidf_logreg_training_13.metadata.json`
 
-Model lama boleh tetap disimpan sebagai arsip, tetapi tidak lagi dimuat oleh API.
+Artifact model lama tidak diperlukan oleh API.
 
 ## Start Command
 
